@@ -1,0 +1,23 @@
+{
+  "name": "sofia-2.0",
+  "version": "1.0.0",
+  "description": "SOFÍA 2.0 - Plataforma de orientación tributaria y aduanera by mjvstudio.online",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n frontend,backend -c cyan,yellow \"pnpm --dir frontend dev\" \"pnpm --dir backend dev\"",
+    "dev:frontend": "pnpm --dir frontend dev",
+    "dev:backend": "pnpm --dir backend dev",
+    "build": "pnpm --dir frontend build && pnpm --dir backend build",
+    "check": "pnpm --dir frontend lint && pnpm build",
+    "package:release": "node deploy/package.mjs",
+    "test:production": "node deploy/verify.mjs",
+    "preview": "pnpm --dir frontend preview"
+  },
+  "keywords": [],
+  "author": "mjvstudio.online",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

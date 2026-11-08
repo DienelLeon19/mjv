@@ -1,0 +1,47 @@
+{
+  "id": "cpe-009",
+  "categoria": "comprobantes",
+  "titulo": "Consulta Integrada de Validez de Comprobantes de Pago Electrónicos",
+  "contenido": "La consulta oficial permite comprobar si determinados documentos están registrados o informados a SUNAT. El resultado debe distinguirse de la comprobación de realidad de la operación y de todos los requisitos de deducibilidad. La consulta individual solicita los datos indicados por su formulario y separa estado del comprobante, estado del contribuyente y condición de domicilio. Un resultado sin registro puede deberse a errores en los datos o a un envío todavía dentro del plazo permitido. No acredita automáticamente falsificación ni justifica por sí solo una prohibición universal de pago. Debe aclararse con el emisor y revisar nuevamente el estado.",
+  "url_fuente": "https://ww1.sunat.gob.pe/ol-ti-itconsultaunificadalibre/consultaUnificadaLibre/consulta.htm",
+  "vigencia": "vigente",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 190-2017/SUNAT (Consulta de validez de comprobantes)",
+    "Código Tributario, Artículos 87 y 174"
+  ],
+  "palabras_clave": [
+    "consulta de validez",
+    "verificar factura",
+    "autenticidad comprobante",
+    "debida diligencia",
+    "serie y numero"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La consulta oficial permite comprobar si determinados documentos están registrados o informados a SUNAT. El resultado debe distinguirse de la comprobación de realidad de la operación y de todos los requisitos de deducibilidad. La consulta individual solicita los datos indicados por su formulario y separa estado del comprobante, estado del contribuyente y condición de domicilio. Un resultado sin registro puede deberse a errores en los datos o a un envío todavía dentro del plazo permitido. No acredita automáticamente falsificación ni justifica por sí solo una prohibición universal de pago. Debe aclararse con el emisor y revisar nuevamente el estado."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "verificado_en_alcance",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Retirados RUC del adquirente universal y conclusión automática de falsificación o impago."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://ww1.sunat.gob.pe/ol-ti-itconsultaunificadalibre/consultaUnificadaLibre/consulta.htm",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://ww3.sunat.gob.pe/ol-ti-itconsvalicpe/ConsValiCpe.htm",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": []
+  }
+}

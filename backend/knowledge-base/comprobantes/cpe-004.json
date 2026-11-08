@@ -1,0 +1,61 @@
+{
+  "id": "cpe-004",
+  "categoria": "comprobantes",
+  "titulo": "Recibo por Honorarios Electrónico (RHE): Emisión, retención del 8% y suspensión",
+  "contenido": "Los recibos por honorarios corresponden a servicios independientes comprendidos en cuarta categoría. La retención ordinaria es 8% cuando el pagador es agente de retención y el recibo supera S/ 1,500, salvo suspensión válida u otra excepción. Para 2026, la RS 000390-2025/SUNAT fija S/ 48,125 anuales como umbral general de suspensión y S/ 38,500 para funciones de director, síndico, mandatario y similares. Los importes mensuales de referencia son S/ 4,010 y S/ 3,208, respectivamente. No dependen de tener familiares a cargo. La solicitud se efectúa por Formulario Virtual 1609 y deben revisarse las condiciones de reinicio. El recibo al crédito debe identificar saldo y vencimientos, y el pago recibido se registra.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Oportunidad precisa de emisión y plazo de registro de pagos según modificaciones vigentes.",
+  "url_fuente": "https://www.sunat.gob.pe/legislacion/superin/2025/000390-2025.pdf",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Artículos 33, 71 y 74",
+    "Resolución de Superintendencia N° 182-2008/SUNAT (Sistema de Emisión Electrónica de RHE)",
+    "RS 000390-2025/SUNAT, importes desde 2026-01-01"
+  ],
+  "palabras_clave": [
+    "recibo por honorarios",
+    "cuarta categoria",
+    "retencion 8%",
+    "limite 1500",
+    "suspension retenciones",
+    "formulario 1609"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Los recibos por honorarios corresponden a servicios independientes comprendidos en cuarta categoría. La retención ordinaria es 8% cuando el pagador es agente de retención y el recibo supera S/ 1,500, salvo suspensión válida u otra excepción. Para 2026, la RS 000390-2025/SUNAT fija S/ 48,125 anuales como umbral general de suspensión y S/ 38,500 para funciones de director, síndico, mandatario y similares. Los importes mensuales de referencia son S/ 4,010 y S/ 3,208, respectivamente. No dependen de tener familiares a cargo. La solicitud se efectúa por Formulario Virtual 1609 y deben revisarse las condiciones de reinicio. El recibo al crédito debe identificar saldo y vencimientos, y el pago recibido se registra."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregido monto aproximado S/ 45,063 y eliminada condición de dependientes."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/superin/2025/000390-2025.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://personas.sunat.gob.pe/trabajador-independiente/suspension-retenciones",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://personas.sunat.gob.pe/trabajador-independiente/declaracion-pago",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.gob.pe/1101-emitir-recibo-por-honorarios-electronico",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "RS 000390-2025/SUNAT, importes desde 2026-01-01"
+    ],
+    "pendientes": [
+      "Oportunidad precisa de emisión y plazo de registro de pagos según modificaciones vigentes."
+    ]
+  }
+}

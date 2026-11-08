@@ -1,0 +1,50 @@
+{
+  "id": "ruc-005",
+  "categoria": "ruc",
+  "titulo": "Condición del Domicilio Fiscal: Habido, No Hallado y No Habido",
+  "contenido": "No hallado y no habido son condiciones del domicilio distintas del estado del RUC. No hallado puede resultar de ausencia o rechazo de recepción en tres ocasiones distintas, o de inexistencia de la dirección. No habido deriva del incumplimiento de confirmar o modificar domicilio tras el requerimiento correspondiente. Para Renta, SUNAT precisa que el gasto de un emisor no habido puede ser deducible si levanta esa condición hasta el 31 de diciembre del ejercicio, sujeto a los demás requisitos. Por ello se retira la afirmación de pérdida definitiva e incondicional. La aplicación al crédito fiscal y su oportunidad debe analizarse separadamente y no deducirse solo del estado actual del proveedor.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Requisitos completos para levantar no habido y tratamiento del crédito fiscal en cada supuesto.",
+  "url_fuente": "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/09/archivos/codtrib.pdf",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Decreto Supremo N° 041-2006-EF (Normas para la condición de no hallado y no habido)",
+    "D.S. N° 133-2013-EF (Código Tributario), Arts. 11 y 44"
+  ],
+  "palabras_clave": [
+    "domicilio fiscal",
+    "habido",
+    "no hallado",
+    "no habido",
+    "credito fiscal",
+    "riesgo tributario"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "No hallado y no habido son condiciones del domicilio distintas del estado del RUC. No hallado puede resultar de ausencia o rechazo de recepción en tres ocasiones distintas, o de inexistencia de la dirección. No habido deriva del incumplimiento de confirmar o modificar domicilio tras el requerimiento correspondiente. Para Renta, SUNAT precisa que el gasto de un emisor no habido puede ser deducible si levanta esa condición hasta el 31 de diciembre del ejercicio, sujeto a los demás requisitos. Por ello se retira la afirmación de pérdida definitiva e incondicional. La aplicación al crédito fiscal y su oportunidad debe analizarse separadamente y no deducirse solo del estado actual del proveedor."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Incorporada excepción de regularización al 31 de diciembre para gasto."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/09/archivos/codtrib.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/05-consecuencias-de-tener-la-condicion-de-no-habido",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Requisitos completos para levantar no habido y tratamiento del crédito fiscal en cada supuesto."
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ruc-007",
+  "categoria": "ruc",
+  "titulo": "Recuperación de Clave SOL y Gestión de Usuarios Secundarios",
+  "contenido": "Si se pierde la Clave SOL se genera una nueva credencial. El Centro de Servicios Virtual describe el acceso desde App Personas o portal SUNAT, identificación mediante DNI o RUC según el caso y validación por código enviado al contacto registrado. Las pantallas y mecanismos dependen del perfil. El titular puede crear usuarios secundarios para delegar operaciones y revocar sus accesos. Sus actuaciones se consideran realizadas por el contribuyente. Se retiró la presentación de preguntas secretas o reconocimiento facial como únicos métodos vigentes, porque las instrucciones actuales incluyen otros flujos.",
+  "url_fuente": "https://centrovirtual.sunat.gob.pe/tramites/clave-sol",
+  "vigencia": "vigente",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 109-2000/SUNAT y modificatorias",
+    "R.S. N° 086-2003/SUNAT (Administración de usuarios secundarios)"
+  ],
+  "palabras_clave": [
+    "recuperar clave sol",
+    "usuario secundario",
+    "preguntas de seguridad",
+    "roles sol",
+    "permisos contables"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Si se pierde la Clave SOL se genera una nueva credencial. El Centro de Servicios Virtual describe el acceso desde App Personas o portal SUNAT, identificación mediante DNI o RUC según el caso y validación por código enviado al contacto registrado. Las pantallas y mecanismos dependen del perfil. El titular puede crear usuarios secundarios para delegar operaciones y revocar sus accesos. Sus actuaciones se consideran realizadas por el contribuyente. Se retiró la presentación de preguntas secretas o reconocimiento facial como únicos métodos vigentes, porque las instrucciones actuales incluyen otros flujos."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "verificado_en_alcance",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Actualizado flujo de generación y recuperación y responsabilidad de secundarios."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://centrovirtual.sunat.gob.pe/tramites/clave-sol",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/1088-clave-sol-obtencion-recuperacion",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": []
+  }
+}

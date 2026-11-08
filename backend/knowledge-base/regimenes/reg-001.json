@@ -1,0 +1,54 @@
+{
+  "id": "reg-001",
+  "categoria": "regimenes",
+  "titulo": "Nuevo Régimen Único Simplificado (Nuevo RUS / NRUS)",
+  "contenido": "El Nuevo RUS comprende personas naturales y sucesiones indivisas elegibles. Sus límites generales son S/ 8,000 mensuales y S/ 96,000 anuales, tanto para ingresos como adquisiciones. Los activos afectados no deben superar S/ 70,000, excluyendo predios y vehículos. La categoría 1 corresponde hasta S/ 5,000 de ingresos y compras, con cuota S/ 20; la categoría 2, hasta S/ 8,000, con cuota S/ 50. La categoría especial exige que ingresos y compras anuales, cada uno, no superen S/ 60,000, actividad exclusiva autorizada y Formulario 2010. Comprende venta de determinados productos en mercados de abastos o cultivo con venta en estado natural. No habilita facturas. Existen exclusiones y excepciones sectoriales.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Aplicación individual de exclusiones y excepciones a unidad de explotación y activos.",
+  "url_fuente": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Decreto Legislativo N° 937 (Texto del Nuevo Régimen Único Simplificado) y modificatorias (D.L. 1270)"
+  ],
+  "palabras_clave": [
+    "nrus",
+    "nuevo rus",
+    "cuota fija",
+    "limite 8000",
+    "categoria 1",
+    "categoria 2",
+    "boletas"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El Nuevo RUS comprende personas naturales y sucesiones indivisas elegibles. Sus límites generales son S/ 8,000 mensuales y S/ 96,000 anuales, tanto para ingresos como adquisiciones. Los activos afectados no deben superar S/ 70,000, excluyendo predios y vehículos. La categoría 1 corresponde hasta S/ 5,000 de ingresos y compras, con cuota S/ 20; la categoría 2, hasta S/ 8,000, con cuota S/ 50. La categoría especial exige que ingresos y compras anuales, cada uno, no superen S/ 60,000, actividad exclusiva autorizada y Formulario 2010. Comprende venta de determinados productos en mercados de abastos o cultivo con venta en estado natural. No habilita facturas. Existen exclusiones y excepciones sectoriales."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Precisados categoría especial, compras y formulario; evitada elegibilidad universal."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/3100-04-determinacion-y-pago-categorias-del-nrus",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/rus/rus.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Aplicación individual de exclusiones y excepciones a unidad de explotación y activos."
+    ]
+  }
+}

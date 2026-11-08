@@ -1,0 +1,51 @@
+{
+  "id": "ruc-003",
+  "categoria": "ruc",
+  "titulo": "Inscripción en el RUC para Personas Jurídicas (Empresas)",
+  "contenido": "Los requisitos de inscripción de una persona jurídica dependen de su tipo y canal de constitución. SUNAT exige para EIRL y las sociedades enumeradas en su cuadro la partida registral certificada con antigüedad máxima de treinta días calendario, además de los requisitos generales correspondientes. La acreditación domiciliaria puede efectuarse mediante documento público o privado que indique la dirección. No se confirmó un límite general de dos meses para ese documento. El flujo SID-SUNARP, la activación del RUC asignado y la admisión de Mesa de Partes Virtual requieren comprobación específica antes de ofrecer instrucciones operativas. La inscripción tributaria no debe presentarse como una prohibición general para celebrar contratos civiles.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Flujo vigente SID-SUNARP, activación, MPV y formularios según tipo de entidad.",
+  "url_fuente": "https://orientacion.sunat.gob.pe/requisitos-de-inscripcion-adicionales-segun-tipo-de-contribuyente",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Ley General de Sociedades, Ley N° 26887",
+    "Resolución de Superintendencia N° 210-2004/SUNAT y normas modificatorias",
+    "Convenio SUNAT - SUNARP para asignación digital del RUC"
+  ],
+  "palabras_clave": [
+    "persona juridica",
+    "empresa",
+    "sid sunarp",
+    "partida registral",
+    "formulario 2119",
+    "representante legal"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Los requisitos de inscripción de una persona jurídica dependen de su tipo y canal de constitución. SUNAT exige para EIRL y las sociedades enumeradas en su cuadro la partida registral certificada con antigüedad máxima de treinta días calendario, además de los requisitos generales correspondientes. La acreditación domiciliaria puede efectuarse mediante documento público o privado que indique la dirección. No se confirmó un límite general de dos meses para ese documento. El flujo SID-SUNARP, la activación del RUC asignado y la admisión de Mesa de Partes Virtual requieren comprobación específica antes de ofrecer instrucciones operativas. La inscripción tributaria no debe presentarse como una prohibición general para celebrar contratos civiles."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Separados requisitos confirmados de canales y pasos pendientes."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://orientacion.sunat.gob.pe/requisitos-de-inscripcion-adicionales-segun-tipo-de-contribuyente",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cdn.www.gob.pe/uploads/document/file/289280/Gui%CC%81a_de_la_formalizacio%CC%81n_21-11.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Flujo vigente SID-SUNARP, activación, MPV y formularios según tipo de entidad."
+    ]
+  }
+}

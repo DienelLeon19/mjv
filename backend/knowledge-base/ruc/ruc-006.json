@@ -1,0 +1,54 @@
+{
+  "id": "ruc-006",
+  "categoria": "ruc",
+  "titulo": "Clave SOL: Concepto, obtención por primera vez y canales de tramitación",
+  "contenido": "La Clave SOL es una credencial personal de acceso a SUNAT Operaciones en Línea. No se equipara en este documento con un certificado de firma digital. Puede generarse mediante los canales virtuales o presencialmente con la documentación correspondiente. Los procedimientos virtuales distinguen personas naturales y representantes de personas jurídicas, y pueden requerir validación de datos de contacto. No se exige como regla universal biometría o DNI peruano en todos los flujos. SUNAT recomienda cambiar la contraseña cada noventa días y usar usuarios secundarios para delegar funciones. Esta recomendación de seguridad no acredita por sí sola una caducidad automática.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Requisitos completos para trámite presencial por tercero y política técnica de caducidad.",
+  "url_fuente": "https://www.gob.pe/institucion/sunat/pages/11075-clave-sol",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 109-2000/SUNAT (Reglamento del Sistema de Operaciones en Línea)",
+    "Resolución de Superintendencia N° 144-2020/SUNAT (Obtención de Clave SOL con biometría)"
+  ],
+  "palabras_clave": [
+    "clave sol",
+    "obtencion clave sol",
+    "sunat operaciones en linea",
+    "usuario sol",
+    "biometria",
+    "app personas"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La Clave SOL es una credencial personal de acceso a SUNAT Operaciones en Línea. No se equipara en este documento con un certificado de firma digital. Puede generarse mediante los canales virtuales o presencialmente con la documentación correspondiente. Los procedimientos virtuales distinguen personas naturales y representantes de personas jurídicas, y pueden requerir validación de datos de contacto. No se exige como regla universal biometría o DNI peruano en todos los flujos. SUNAT recomienda cambiar la contraseña cada noventa días y usar usuarios secundarios para delegar funciones. Esta recomendación de seguridad no acredita por sí sola una caducidad automática."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregida equiparación a firma digital y requisito universal de biometría."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.gob.pe/institucion/sunat/pages/11075-clave-sol",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/6614-02-requisitos-para-obtener-la-clave-sol",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/mensajes/setiembre/2025/aviso-ti-080925.html",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Requisitos completos para trámite presencial por tercero y política técnica de caducidad."
+    ]
+  }
+}

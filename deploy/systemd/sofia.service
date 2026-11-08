@@ -1,0 +1,33 @@
+[Unit]
+Description=SOFIA 2.0 educational API
+After=network-online.target
+Wants=network-online.target
+StartLimitIntervalSec=60
+StartLimitBurst=5
+
+[Service]
+Type=simple
+User=sofia
+Group=sofia
+WorkingDirectory=/opt/sofia/current/backend
+EnvironmentFile=/etc/sofia/sofia.env
+ExecStart=/usr/local/bin/node --use-system-ca --max-old-space-size=256 dist/index.js
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=20
+KillSignal=SIGTERM
+MemoryHigh=320M
+MemoryMax=384M
+TasksMax=64
+UMask=0027
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

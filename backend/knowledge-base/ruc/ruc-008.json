@@ -1,0 +1,52 @@
+{
+  "id": "ruc-008",
+  "categoria": "ruc",
+  "titulo": "Buzón Electrónico SOL y Notificaciones Electrónicas Tributarias",
+  "contenido": "Desde el 1 de marzo de 2023, conforme al Decreto Legislativo 1523, la notificación electrónica se considera efectuada en la fecha de depósito en el Buzón SOL. Como regla general surte efectos el día hábil siguiente. Determinados actos, como medidas cautelares y requerimientos de exhibición previstos en el Código Tributario, surten efectos inmediatamente. No abrir el buzón no invalida la notificación. La fecha de notificación, la fecha de efectos y el inicio del plazo específico deben distinguirse. No es correcto asignar a cualquier reclamación, pago o subsanación un inicio uniforme sin consultar la norma del procedimiento.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Cómputo del plazo concreto por tipo de acto y procedimiento.",
+  "url_fuente": "https://emprender.sunat.gob.pe/landing/plazo-notificacion-electronica",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "D.S. N° 133-2013-EF (TUO del Código Tributario), Artículo 104, inciso b)",
+    "Resolución de Superintendencia N° 014-2008/SUNAT (Notificación Electrónica)",
+    "DL 1523, modificación del artículo 104, vigente desde 2023-03-01"
+  ],
+  "palabras_clave": [
+    "buzon electronico",
+    "notificacion electronica",
+    "plazos tributarios",
+    "orden de pago",
+    "alerta sol"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Desde el 1 de marzo de 2023, conforme al Decreto Legislativo 1523, la notificación electrónica se considera efectuada en la fecha de depósito en el Buzón SOL. Como regla general surte efectos el día hábil siguiente. Determinados actos, como medidas cautelares y requerimientos de exhibición previstos en el Código Tributario, surten efectos inmediatamente. No abrir el buzón no invalida la notificación. La fecha de notificación, la fecha de efectos y el inicio del plazo específico deben distinguirse. No es correcto asignar a cualquier reclamación, pago o subsanación un inicio uniforme sin consultar la norma del procedimiento."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Incorporadas excepciones a efectos desde el día hábil siguiente."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://emprender.sunat.gob.pe/landing/plazo-notificacion-electronica",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/codigo/libro3/libro.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "DL 1523, modificación del artículo 104, vigente desde 2023-03-01"
+    ],
+    "pendientes": [
+      "Cómputo del plazo concreto por tipo de acto y procedimiento."
+    ]
+  }
+}

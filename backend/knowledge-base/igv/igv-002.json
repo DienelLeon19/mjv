@@ -1,0 +1,55 @@
+{
+  "id": "igv-002",
+  "categoria": "igv",
+  "titulo": "Crédito Fiscal del IGV: Requisitos Sustanciales, Formales y Bancarización",
+  "contenido": "El crédito fiscal exige verificar los requisitos sustanciales y formales de los artículos 18 y 19 del TUO del IGV, además de la Ley 29215 y reglas aplicables. No basta con poseer una factura o una CDR aceptada. La bancarización es obligatoria desde S/ 2,000 o US$ 500 para obligaciones comprendidas en la Ley 28194, modificada por el DL 1529. El pago debe efectuarse al acreedor o al tercero designado con la comunicación exigida. Se retira la afirmación de que todo registro debe efectuarse necesariamente mediante SIRE. El DL 1669 modifica la anotación y el crédito fiscal con vigencia condicionada a una resolución de SUNAT; no se ha confirmado aquí el cumplimiento de esa condición al corte.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Verificar resolución que activa DL 1669, plazos de anotación por fecha de emisión, calendario SIRE y excepciones de bancarización.",
+  "url_fuente": "https://emprender.sunat.gob.pe/comprobantes-libros/comprobantes-pago/bancarizacion",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "TUO de la Ley del IGV, D.S. N° 055-99-EF, Artículos 18, 19 y 20",
+    "Ley N° 28194 (Ley para la Lucha contra la Evasión y para la Formalización de la Economía) y modificatorias (D.L. 1529)",
+    "DL 1669, vigencia condicionada pendiente de confirmar",
+    "DL 1529, bancarización"
+  ],
+  "palabras_clave": [
+    "credito fiscal",
+    "requisitos sustanciales",
+    "requisitos formales",
+    "bancarizacion",
+    "2000 soles",
+    "sire"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El crédito fiscal exige verificar los requisitos sustanciales y formales de los artículos 18 y 19 del TUO del IGV, además de la Ley 29215 y reglas aplicables. No basta con poseer una factura o una CDR aceptada. La bancarización es obligatoria desde S/ 2,000 o US$ 500 para obligaciones comprendidas en la Ley 28194, modificada por el DL 1529. El pago debe efectuarse al acreedor o al tercero designado con la comunicación exigida. Se retira la afirmación de que todo registro debe efectuarse necesariamente mediante SIRE. El DL 1669 modifica la anotación y el crédito fiscal con vigencia condicionada a una resolución de SUNAT; no se ha confirmado aquí el cumplimiento de esa condición al corte."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Identificada vigencia condicionada del DL 1669; retirado SIRE universal."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://emprender.sunat.gob.pe/comprobantes-libros/comprobantes-pago/bancarizacion",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://leyes.congreso.gob.pe/Documentos/2021_2026/Decretos/Legislativos/2024/DL-1669.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "DL 1669, vigencia condicionada pendiente de confirmar",
+      "DL 1529, bancarización"
+    ],
+    "pendientes": [
+      "Verificar resolución que activa DL 1669, plazos de anotación por fecha de emisión, calendario SIRE y excepciones de bancarización."
+    ]
+  }
+}

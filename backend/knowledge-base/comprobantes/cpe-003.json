@@ -1,0 +1,54 @@
+{
+  "id": "cpe-003",
+  "categoria": "comprobantes",
+  "titulo": "Notas de Crédito y Notas de Débito Electrónicas",
+  "contenido": "La nota de crédito permite modificar operaciones mediante anulaciones, descuentos, devoluciones o bonificaciones en los supuestos autorizados. La nota de débito documenta incrementos procedentes conforme a las reglas aplicables. Debe identificarse el comprobante afectado y el motivo. No es correcto afirmar que toda factura aceptada solo puede dejarse sin efecto mediante nota de crédito: la normativa también contempla comunicaciones de baja y tratamiento de anulaciones en resumen diario, según sistema, entrega y supuesto. La oportunidad del ajuste de IGV debe revisarse según su causa y los requisitos legales, sin equipararla automáticamente a la fecha de emisión de cualquier nota.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Plazos y requisitos de baja y notas según SEE, entrega, motivo y período de ajuste fiscal.",
+  "url_fuente": "https://www.gob.pe/17414-emitir-nota-de-cr-dito-electr-nica",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 007-99/SUNAT, Artículo 10",
+    "R.S. N° 097-2012/SUNAT (Catálogos de motivos de Nota de Crédito y Débito)"
+  ],
+  "palabras_clave": [
+    "nota de credito",
+    "nota de debito",
+    "anulacion",
+    "descuentos",
+    "motivo de emision",
+    "comprobante modificatorio"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La nota de crédito permite modificar operaciones mediante anulaciones, descuentos, devoluciones o bonificaciones en los supuestos autorizados. La nota de débito documenta incrementos procedentes conforme a las reglas aplicables. Debe identificarse el comprobante afectado y el motivo. No es correcto afirmar que toda factura aceptada solo puede dejarse sin efecto mediante nota de crédito: la normativa también contempla comunicaciones de baja y tratamiento de anulaciones en resumen diario, según sistema, entrega y supuesto. La oportunidad del ajuste de IGV debe revisarse según su causa y los requisitos legales, sin equipararla automáticamente a la fecha de emisión de cualquier nota."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Retirada nota de crédito como única vía de anulación."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.gob.pe/17414-emitir-nota-de-cr-dito-electr-nica",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/superin/2018/113-2018.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cpe.sunat.gob.pe/tipos_de_comprobantes/nota_de_debito",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Plazos y requisitos de baja y notas según SEE, entrega, motivo y período de ajuste fiscal."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "reg-004",
+  "categoria": "regimenes",
+  "titulo": "Régimen General del Impuesto a la Renta (RG)",
+  "contenido": "El Régimen General no establece un tope de ingresos para permanecer en él. La tasa ordinaria de Renta empresarial es 29.5% de la renta neta anual. Los pagos a cuenta se calculan conforme al artículo 85, comparando coeficiente y 1.5% de ingresos netos, sin perjuicio de modificación o suspensión legal. En enero y febrero el coeficiente toma el ejercicio precedente al anterior, mientras desde marzo corresponde el anterior. La fecha de declaración anual depende del ejercicio, del contribuyente y del cronograma aplicable, incluidas reglas especiales para personas naturales y MYPE. No debe afirmarse que todos declaran necesariamente en marzo o abril.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Cronograma para el ejercicio 2026, libros auxiliares según actividad y regímenes sectoriales.",
+  "url_fuente": "https://orientacion.sunat.gob.pe/03-tasa-del-impuesto",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Artículos 28, 55 y 85",
+    "Reglamento de la Ley del Impuesto a la Renta, D.S. N° 122-94-EF"
+  ],
+  "palabras_clave": [
+    "regimen general",
+    "tasa 29.5%",
+    "coeficiente renta",
+    "contabilidad completa",
+    "art 85 lir"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El Régimen General no establece un tope de ingresos para permanecer en él. La tasa ordinaria de Renta empresarial es 29.5% de la renta neta anual. Los pagos a cuenta se calculan conforme al artículo 85, comparando coeficiente y 1.5% de ingresos netos, sin perjuicio de modificación o suspensión legal. En enero y febrero el coeficiente toma el ejercicio precedente al anterior, mientras desde marzo corresponde el anterior. La fecha de declaración anual depende del ejercicio, del contribuyente y del cronograma aplicable, incluidas reglas especiales para personas naturales y MYPE. No debe afirmarse que todos declaran necesariamente en marzo o abril."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregidos coeficiente enero/febrero y plazo anual universal."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://orientacion.sunat.gob.pe/03-tasa-del-impuesto",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/01-determinacion-de-pagos-cuenta",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://renta.sunat.gob.pe/normas",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Cronograma para el ejercicio 2026, libros auxiliares según actividad y regímenes sectoriales."
+    ]
+  }
+}

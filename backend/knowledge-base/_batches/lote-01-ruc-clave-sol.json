@@ -1,0 +1,481 @@
+{
+  "lote": "lote-01-ruc-clave-sol",
+  "fecha_consulta": "2026-11-03",
+  "cobertura": "Inscripción en el RUC (persona natural con y sin negocio, persona jurídica), tipos de RUC (10 y 20), estados del RUC (activo, suspendido, baja provisional/definitiva), condición del domicilio fiscal (habido, no hallado, no habido), suspensión temporal y reinicio de actividades, baja definitiva, obtención virtual y presencial de Clave SOL, recuperación de credenciales y administración de usuarios secundarios.",
+  "urls_procesadas": [
+    "https://ww3.sunat.gob.pe/ol-ti-itinsrucsol/iruc001Alias",
+    "https://www.sunat.gob.pe/legislacion/ruc/fdetalle.htm",
+    "https://www.gob.pe/284-inscripcion-a-ruc-persona-natura",
+    "https://orientacion.sunat.gob.pe/1097-0-inscribete-en-el-ruc",
+    "https://cdn.www.gob.pe/uploads/document/file/289280/Gui%CC%81a_de_la_formalizacio%CC%81n_21-11.pdf",
+    "https://orientacion.sunat.gob.pe/requisitos-de-inscripcion-adicionales-segun-tipo-de-contribuyente",
+    "https://orientacion.sunat.gob.pe/7144-10-estados-del-ruc",
+    "https://orientacion.sunat.gob.pe/reactivacion-del-numero-de-ruc",
+    "https://centrovirtual.sunat.gob.pe/tramites/actualizar-datos-ruc",
+    "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/09/archivos/codtrib.pdf",
+    "https://orientacion.sunat.gob.pe/05-consecuencias-de-tener-la-condicion-de-no-habido",
+    "https://www.gob.pe/institucion/sunat/pages/11075-clave-sol",
+    "https://orientacion.sunat.gob.pe/6614-02-requisitos-para-obtener-la-clave-sol",
+    "https://www.sunat.gob.pe/mensajes/setiembre/2025/aviso-ti-080925.html",
+    "https://centrovirtual.sunat.gob.pe/tramites/clave-sol",
+    "https://orientacion.sunat.gob.pe/1088-clave-sol-obtencion-recuperacion",
+    "https://emprender.sunat.gob.pe/landing/plazo-notificacion-electronica",
+    "https://www.sunat.gob.pe/legislacion/codigo/libro3/libro.pdf"
+  ],
+  "pendientes": [
+    "Inscripción de consorcios y contratos de colaboración empresarial sin contabilidad independiente",
+    "Reglas específicas para personas naturales extranjeras sin carné de extranjería (trámite con pasaporte y PTP)"
+  ],
+  "documentos": [
+    {
+      "id": "ruc-001",
+      "categoria": "ruc",
+      "titulo": "Definición del RUC, obligatoriedad y estructura del número",
+      "contenido": "El RUC identifica al contribuyente mediante un número único de once dígitos. Su inscripción y actualización se rigen por el Decreto Legislativo 943 y las disposiciones de SUNAT. Se utiliza en declaraciones y trámites tributarios. La obligación de inscripción depende de los supuestos legales, incluidas las excepciones aplicables a determinadas operaciones. No se debe deducir la nacionalidad ni la situación tributaria únicamente a partir del prefijo del número. Se retiró la clasificación de prefijos 15 y 17 como regla vigente para extranjeros por falta de verificación.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Correspondencia actual de prefijos 10, 15, 17 y 20 y excepciones de inscripción para operaciones ocasionales.",
+      "url_fuente": "https://ww3.sunat.gob.pe/ol-ti-itinsrucsol/iruc001Alias",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Decreto Legislativo N° 943 - Ley del Registro Único de Contribuyentes",
+        "Resolución de Superintendencia N° 210-2004/SUNAT (Reglamento de la Ley del RUC)",
+        "Texto Único Ordenado del Código Tributario, D.S. N° 133-2013-EF, Art. 87"
+      ],
+      "palabras_clave": [
+        "ruc",
+        "definicion",
+        "obligatoriedad",
+        "11 digitos",
+        "ruc 10",
+        "ruc 20",
+        "sunat"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El RUC identifica al contribuyente mediante un número único de once dígitos. Su inscripción y actualización se rigen por el Decreto Legislativo 943 y las disposiciones de SUNAT. Se utiliza en declaraciones y trámites tributarios. La obligación de inscripción depende de los supuestos legales, incluidas las excepciones aplicables a determinadas operaciones. No se debe deducir la nacionalidad ni la situación tributaria únicamente a partir del prefijo del número. Se retiró la clasificación de prefijos 15 y 17 como regla vigente para extranjeros por falta de verificación."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Retirada clasificación no acreditada de extranjeros por prefijo."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://ww3.sunat.gob.pe/ol-ti-itinsrucsol/iruc001Alias",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/ruc/fdetalle.htm",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Correspondencia actual de prefijos 10, 15, 17 y 20 y excepciones de inscripción para operaciones ocasionales."
+        ]
+      }
+    },
+    {
+      "id": "ruc-002",
+      "categoria": "ruc",
+      "titulo": "Inscripción en el RUC para Personas Naturales (con y sin negocio)",
+      "contenido": "La inscripción virtual de personas naturales requiere DNI, celular, correo y datos de la actividad. SUNAT Virtual y App Personas permiten validar la identidad y generar Clave SOL durante la inscripción. Deben indicarse domicilio fiscal, actividad económica y, si existe negocio, régimen tributario. La ficha oficial distingue la fecha de inicio declarada en SUNAT Virtual de la inscripción por App Personas, donde coincide con la inscripción. Para acreditar domicilio presencialmente, SUNAT admite documentación pública o privada que contenga la dirección. Se retiró el requisito general de antigüedad máxima de dos meses del documento domiciliario, que no quedó acreditado. Los requisitos documentarios de extranjeros y representantes deben verificarse según el canal y supuesto.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Documentos migratorios admitidos en noviembre de 2026 y requisitos completos de representación presencial.",
+      "url_fuente": "https://www.gob.pe/284-inscripcion-a-ruc-persona-natura",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 210-2004/SUNAT",
+        "Resolución de Superintendencia N° 144-2020/SUNAT (Inscripción virtual con biometría)"
+      ],
+      "palabras_clave": [
+        "inscripcion ruc",
+        "persona natural",
+        "app personas",
+        "biometria",
+        "sunat virtual",
+        "requisitos"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La inscripción virtual de personas naturales requiere DNI, celular, correo y datos de la actividad. SUNAT Virtual y App Personas permiten validar la identidad y generar Clave SOL durante la inscripción. Deben indicarse domicilio fiscal, actividad económica y, si existe negocio, régimen tributario. La ficha oficial distingue la fecha de inicio declarada en SUNAT Virtual de la inscripción por App Personas, donde coincide con la inscripción. Para acreditar domicilio presencialmente, SUNAT admite documentación pública o privada que contenga la dirección. Se retiró el requisito general de antigüedad máxima de dos meses del documento domiciliario, que no quedó acreditado. Los requisitos documentarios de extranjeros y representantes deben verificarse según el canal y supuesto."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Eliminado límite de dos meses y precisada fecha de inicio en App Personas."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.gob.pe/284-inscripcion-a-ruc-persona-natura",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/1097-0-inscribete-en-el-ruc",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cdn.www.gob.pe/uploads/document/file/289280/Gui%CC%81a_de_la_formalizacio%CC%81n_21-11.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Documentos migratorios admitidos en noviembre de 2026 y requisitos completos de representación presencial."
+        ]
+      }
+    },
+    {
+      "id": "ruc-003",
+      "categoria": "ruc",
+      "titulo": "Inscripción en el RUC para Personas Jurídicas (Empresas)",
+      "contenido": "Los requisitos de inscripción de una persona jurídica dependen de su tipo y canal de constitución. SUNAT exige para EIRL y las sociedades enumeradas en su cuadro la partida registral certificada con antigüedad máxima de treinta días calendario, además de los requisitos generales correspondientes. La acreditación domiciliaria puede efectuarse mediante documento público o privado que indique la dirección. No se confirmó un límite general de dos meses para ese documento. El flujo SID-SUNARP, la activación del RUC asignado y la admisión de Mesa de Partes Virtual requieren comprobación específica antes de ofrecer instrucciones operativas. La inscripción tributaria no debe presentarse como una prohibición general para celebrar contratos civiles.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Flujo vigente SID-SUNARP, activación, MPV y formularios según tipo de entidad.",
+      "url_fuente": "https://orientacion.sunat.gob.pe/requisitos-de-inscripcion-adicionales-segun-tipo-de-contribuyente",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Ley General de Sociedades, Ley N° 26887",
+        "Resolución de Superintendencia N° 210-2004/SUNAT y normas modificatorias",
+        "Convenio SUNAT - SUNARP para asignación digital del RUC"
+      ],
+      "palabras_clave": [
+        "persona juridica",
+        "empresa",
+        "sid sunarp",
+        "partida registral",
+        "formulario 2119",
+        "representante legal"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Los requisitos de inscripción de una persona jurídica dependen de su tipo y canal de constitución. SUNAT exige para EIRL y las sociedades enumeradas en su cuadro la partida registral certificada con antigüedad máxima de treinta días calendario, además de los requisitos generales correspondientes. La acreditación domiciliaria puede efectuarse mediante documento público o privado que indique la dirección. No se confirmó un límite general de dos meses para ese documento. El flujo SID-SUNARP, la activación del RUC asignado y la admisión de Mesa de Partes Virtual requieren comprobación específica antes de ofrecer instrucciones operativas. La inscripción tributaria no debe presentarse como una prohibición general para celebrar contratos civiles."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Separados requisitos confirmados de canales y pasos pendientes."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://orientacion.sunat.gob.pe/requisitos-de-inscripcion-adicionales-segun-tipo-de-contribuyente",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cdn.www.gob.pe/uploads/document/file/289280/Gui%CC%81a_de_la_formalizacio%CC%81n_21-11.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Flujo vigente SID-SUNARP, activación, MPV y formularios según tipo de entidad."
+        ]
+      }
+    },
+    {
+      "id": "ruc-004",
+      "categoria": "ruc",
+      "titulo": "Estados del RUC: Activo, Suspensión Temporal y Baja de Oficio o Definitiva",
+      "contenido": "El padrón distingue activo, suspensión temporal, baja provisional, baja definitiva y bajas de oficio. La suspensión temporal admite hasta doce meses consecutivos. El contribuyente puede comunicar el reinicio o solicitar baja. Al vencer ese plazo sin comunicación, SUNAT puede dar de baja de oficio o considerar que se continúan las actividades, según corresponda. La baja definitiva no impide universalmente volver a utilizar el número: SUNAT contempla la reactivación de RUC dado de baja voluntariamente o de oficio. La emisión durante una suspensión debe evaluarse según las condiciones del sistema de emisión, sin afirmar automáticamente la sanción ni la pérdida del crédito del comprador.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Excepciones a declaraciones durante suspensión y consecuencias concretas de emitir en ese estado.",
+      "url_fuente": "https://orientacion.sunat.gob.pe/7144-10-estados-del-ruc",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 210-2004/SUNAT, Artículos 22 al 27",
+        "Texto Único Ordenado del Código Tributario, D.S. N° 133-2013-EF"
+      ],
+      "palabras_clave": [
+        "estados ruc",
+        "activo",
+        "suspension temporal",
+        "baja provisional",
+        "baja definitiva",
+        "reinicio actividades"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El padrón distingue activo, suspensión temporal, baja provisional, baja definitiva y bajas de oficio. La suspensión temporal admite hasta doce meses consecutivos. El contribuyente puede comunicar el reinicio o solicitar baja. Al vencer ese plazo sin comunicación, SUNAT puede dar de baja de oficio o considerar que se continúan las actividades, según corresponda. La baja definitiva no impide universalmente volver a utilizar el número: SUNAT contempla la reactivación de RUC dado de baja voluntariamente o de oficio. La emisión durante una suspensión debe evaluarse según las condiciones del sistema de emisión, sin afirmar automáticamente la sanción ni la pérdida del crédito del comprador."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregida irreversibilidad de baja definitiva."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://orientacion.sunat.gob.pe/7144-10-estados-del-ruc",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/reactivacion-del-numero-de-ruc",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://centrovirtual.sunat.gob.pe/tramites/actualizar-datos-ruc",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Excepciones a declaraciones durante suspensión y consecuencias concretas de emitir en ese estado."
+        ]
+      }
+    },
+    {
+      "id": "ruc-005",
+      "categoria": "ruc",
+      "titulo": "Condición del Domicilio Fiscal: Habido, No Hallado y No Habido",
+      "contenido": "No hallado y no habido son condiciones del domicilio distintas del estado del RUC. No hallado puede resultar de ausencia o rechazo de recepción en tres ocasiones distintas, o de inexistencia de la dirección. No habido deriva del incumplimiento de confirmar o modificar domicilio tras el requerimiento correspondiente. Para Renta, SUNAT precisa que el gasto de un emisor no habido puede ser deducible si levanta esa condición hasta el 31 de diciembre del ejercicio, sujeto a los demás requisitos. Por ello se retira la afirmación de pérdida definitiva e incondicional. La aplicación al crédito fiscal y su oportunidad debe analizarse separadamente y no deducirse solo del estado actual del proveedor.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Requisitos completos para levantar no habido y tratamiento del crédito fiscal en cada supuesto.",
+      "url_fuente": "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/09/archivos/codtrib.pdf",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Decreto Supremo N° 041-2006-EF (Normas para la condición de no hallado y no habido)",
+        "D.S. N° 133-2013-EF (Código Tributario), Arts. 11 y 44"
+      ],
+      "palabras_clave": [
+        "domicilio fiscal",
+        "habido",
+        "no hallado",
+        "no habido",
+        "credito fiscal",
+        "riesgo tributario"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "No hallado y no habido son condiciones del domicilio distintas del estado del RUC. No hallado puede resultar de ausencia o rechazo de recepción en tres ocasiones distintas, o de inexistencia de la dirección. No habido deriva del incumplimiento de confirmar o modificar domicilio tras el requerimiento correspondiente. Para Renta, SUNAT precisa que el gasto de un emisor no habido puede ser deducible si levanta esa condición hasta el 31 de diciembre del ejercicio, sujeto a los demás requisitos. Por ello se retira la afirmación de pérdida definitiva e incondicional. La aplicación al crédito fiscal y su oportunidad debe analizarse separadamente y no deducirse solo del estado actual del proveedor."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Incorporada excepción de regularización al 31 de diciembre para gasto."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/09/archivos/codtrib.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/05-consecuencias-de-tener-la-condicion-de-no-habido",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Requisitos completos para levantar no habido y tratamiento del crédito fiscal en cada supuesto."
+        ]
+      }
+    },
+    {
+      "id": "ruc-006",
+      "categoria": "ruc",
+      "titulo": "Clave SOL: Concepto, obtención por primera vez y canales de tramitación",
+      "contenido": "La Clave SOL es una credencial personal de acceso a SUNAT Operaciones en Línea. No se equipara en este documento con un certificado de firma digital. Puede generarse mediante los canales virtuales o presencialmente con la documentación correspondiente. Los procedimientos virtuales distinguen personas naturales y representantes de personas jurídicas, y pueden requerir validación de datos de contacto. No se exige como regla universal biometría o DNI peruano en todos los flujos. SUNAT recomienda cambiar la contraseña cada noventa días y usar usuarios secundarios para delegar funciones. Esta recomendación de seguridad no acredita por sí sola una caducidad automática.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Requisitos completos para trámite presencial por tercero y política técnica de caducidad.",
+      "url_fuente": "https://www.gob.pe/institucion/sunat/pages/11075-clave-sol",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 109-2000/SUNAT (Reglamento del Sistema de Operaciones en Línea)",
+        "Resolución de Superintendencia N° 144-2020/SUNAT (Obtención de Clave SOL con biometría)"
+      ],
+      "palabras_clave": [
+        "clave sol",
+        "obtencion clave sol",
+        "sunat operaciones en linea",
+        "usuario sol",
+        "biometria",
+        "app personas"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La Clave SOL es una credencial personal de acceso a SUNAT Operaciones en Línea. No se equipara en este documento con un certificado de firma digital. Puede generarse mediante los canales virtuales o presencialmente con la documentación correspondiente. Los procedimientos virtuales distinguen personas naturales y representantes de personas jurídicas, y pueden requerir validación de datos de contacto. No se exige como regla universal biometría o DNI peruano en todos los flujos. SUNAT recomienda cambiar la contraseña cada noventa días y usar usuarios secundarios para delegar funciones. Esta recomendación de seguridad no acredita por sí sola una caducidad automática."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregida equiparación a firma digital y requisito universal de biometría."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.gob.pe/institucion/sunat/pages/11075-clave-sol",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/6614-02-requisitos-para-obtener-la-clave-sol",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/mensajes/setiembre/2025/aviso-ti-080925.html",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Requisitos completos para trámite presencial por tercero y política técnica de caducidad."
+        ]
+      }
+    },
+    {
+      "id": "ruc-007",
+      "categoria": "ruc",
+      "titulo": "Recuperación de Clave SOL y Gestión de Usuarios Secundarios",
+      "contenido": "Si se pierde la Clave SOL se genera una nueva credencial. El Centro de Servicios Virtual describe el acceso desde App Personas o portal SUNAT, identificación mediante DNI o RUC según el caso y validación por código enviado al contacto registrado. Las pantallas y mecanismos dependen del perfil. El titular puede crear usuarios secundarios para delegar operaciones y revocar sus accesos. Sus actuaciones se consideran realizadas por el contribuyente. Se retiró la presentación de preguntas secretas o reconocimiento facial como únicos métodos vigentes, porque las instrucciones actuales incluyen otros flujos.",
+      "url_fuente": "https://centrovirtual.sunat.gob.pe/tramites/clave-sol",
+      "vigencia": "vigente",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 109-2000/SUNAT y modificatorias",
+        "R.S. N° 086-2003/SUNAT (Administración de usuarios secundarios)"
+      ],
+      "palabras_clave": [
+        "recuperar clave sol",
+        "usuario secundario",
+        "preguntas de seguridad",
+        "roles sol",
+        "permisos contables"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Si se pierde la Clave SOL se genera una nueva credencial. El Centro de Servicios Virtual describe el acceso desde App Personas o portal SUNAT, identificación mediante DNI o RUC según el caso y validación por código enviado al contacto registrado. Las pantallas y mecanismos dependen del perfil. El titular puede crear usuarios secundarios para delegar operaciones y revocar sus accesos. Sus actuaciones se consideran realizadas por el contribuyente. Se retiró la presentación de preguntas secretas o reconocimiento facial como únicos métodos vigentes, porque las instrucciones actuales incluyen otros flujos."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "verificado_en_alcance",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Actualizado flujo de generación y recuperación y responsabilidad de secundarios."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://centrovirtual.sunat.gob.pe/tramites/clave-sol",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/1088-clave-sol-obtencion-recuperacion",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": []
+      }
+    },
+    {
+      "id": "ruc-008",
+      "categoria": "ruc",
+      "titulo": "Buzón Electrónico SOL y Notificaciones Electrónicas Tributarias",
+      "contenido": "Desde el 1 de marzo de 2023, conforme al Decreto Legislativo 1523, la notificación electrónica se considera efectuada en la fecha de depósito en el Buzón SOL. Como regla general surte efectos el día hábil siguiente. Determinados actos, como medidas cautelares y requerimientos de exhibición previstos en el Código Tributario, surten efectos inmediatamente. No abrir el buzón no invalida la notificación. La fecha de notificación, la fecha de efectos y el inicio del plazo específico deben distinguirse. No es correcto asignar a cualquier reclamación, pago o subsanación un inicio uniforme sin consultar la norma del procedimiento.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Cómputo del plazo concreto por tipo de acto y procedimiento.",
+      "url_fuente": "https://emprender.sunat.gob.pe/landing/plazo-notificacion-electronica",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "D.S. N° 133-2013-EF (TUO del Código Tributario), Artículo 104, inciso b)",
+        "Resolución de Superintendencia N° 014-2008/SUNAT (Notificación Electrónica)",
+        "DL 1523, modificación del artículo 104, vigente desde 2023-03-01"
+      ],
+      "palabras_clave": [
+        "buzon electronico",
+        "notificacion electronica",
+        "plazos tributarios",
+        "orden de pago",
+        "alerta sol"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Desde el 1 de marzo de 2023, conforme al Decreto Legislativo 1523, la notificación electrónica se considera efectuada en la fecha de depósito en el Buzón SOL. Como regla general surte efectos el día hábil siguiente. Determinados actos, como medidas cautelares y requerimientos de exhibición previstos en el Código Tributario, surten efectos inmediatamente. No abrir el buzón no invalida la notificación. La fecha de notificación, la fecha de efectos y el inicio del plazo específico deben distinguirse. No es correcto asignar a cualquier reclamación, pago o subsanación un inicio uniforme sin consultar la norma del procedimiento."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Incorporadas excepciones a efectos desde el día hábil siguiente."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://emprender.sunat.gob.pe/landing/plazo-notificacion-electronica",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/codigo/libro3/libro.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "DL 1523, modificación del artículo 104, vigente desde 2023-03-01"
+        ],
+        "pendientes": [
+          "Cómputo del plazo concreto por tipo de acto y procedimiento."
+        ]
+      }
+    }
+  ],
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "revisado_con_pendientes",
+    "documentos_revisados": 8
+  },
+  "pendientes_auditoria": [
+    {
+      "id": "ruc-001",
+      "detalle": "Correspondencia actual de prefijos 10, 15, 17 y 20 y excepciones de inscripción para operaciones ocasionales."
+    },
+    {
+      "id": "ruc-002",
+      "detalle": "Documentos migratorios admitidos en noviembre de 2026 y requisitos completos de representación presencial."
+    },
+    {
+      "id": "ruc-003",
+      "detalle": "Flujo vigente SID-SUNARP, activación, MPV y formularios según tipo de entidad."
+    },
+    {
+      "id": "ruc-004",
+      "detalle": "Excepciones a declaraciones durante suspensión y consecuencias concretas de emitir en ese estado."
+    },
+    {
+      "id": "ruc-005",
+      "detalle": "Requisitos completos para levantar no habido y tratamiento del crédito fiscal en cada supuesto."
+    },
+    {
+      "id": "ruc-006",
+      "detalle": "Requisitos completos para trámite presencial por tercero y política técnica de caducidad."
+    },
+    {
+      "id": "ruc-008",
+      "detalle": "Cómputo del plazo concreto por tipo de acto y procedimiento."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "igv-004",
+  "categoria": "igv",
+  "titulo": "Beneficio del IGV Justo (Ley N° 30524): Prórroga del pago a 3 meses para MYPE",
+  "contenido": "El IGV Justo permite a MYPE elegibles prorrogar el pago del IGV por tres meses, sin trasladar el vencimiento de la declaración. El límite de ventas es 1,700 UIT, determinado conforme a las reglas del beneficio. No procede para deudas coactivas mayores a una UIT, condenas tributarias de titulares o socios y procesos concursales. El incumplimiento de declaraciones o pagos de los doce períodos evaluados admite regularización conforme a la Ley 30524 y su reglamento. Por tanto, no es una exclusión irreparable. SUNAT menciona regularizar mediante declaración, pago o fraccionamiento dentro del marco de noventa días previo al acogimiento. El cómputo exacto requiere contrastar el reglamento para el período solicitado.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Cómputo reglamentario de fecha límite de regularización, períodos evaluados y UIT usada para ventas del año anterior.",
+  "url_fuente": "https://www.gob.pe/23606-IGV-justo",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Ley N° 30524 - Ley de prórroga del pago del Impuesto General a las Ventas (IGV Justo)",
+    "Decreto Supremo N° 026-2017-EF (Reglamento de la Ley N° 30524)"
+  ],
+  "palabras_clave": [
+    "igv justo",
+    "ley 30524",
+    "prorroga 3 meses",
+    "mype 1700 uit",
+    "sin intereses moratorios"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El IGV Justo permite a MYPE elegibles prorrogar el pago del IGV por tres meses, sin trasladar el vencimiento de la declaración. El límite de ventas es 1,700 UIT, determinado conforme a las reglas del beneficio. No procede para deudas coactivas mayores a una UIT, condenas tributarias de titulares o socios y procesos concursales. El incumplimiento de declaraciones o pagos de los doce períodos evaluados admite regularización conforme a la Ley 30524 y su reglamento. Por tanto, no es una exclusión irreparable. SUNAT menciona regularizar mediante declaración, pago o fraccionamiento dentro del marco de noventa días previo al acogimiento. El cómputo exacto requiere contrastar el reglamento para el período solicitado."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Añadida regularización y retirado ejemplo de calendario sin contraste reglamentario."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.gob.pe/23606-IGV-justo",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/08/archivos/cigv03.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Cómputo reglamentario de fecha límite de regularización, períodos evaluados y UIT usada para ventas del año anterior."
+    ]
+  }
+}

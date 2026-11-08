@@ -1,0 +1,58 @@
+{
+  "id": "igv-001",
+  "categoria": "igv",
+  "titulo": "Impuesto General a las Ventas (IGV): Concepto, tasa del 18% y operaciones gravadas",
+  "contenido": "En 2026 la tasa general conjunta sobre la base imponible es 18%, compuesta por IGV de 15.5% e Impuesto de Promoción Municipal de 2.5%. La Ley 32387 modificó la distribución de ambos componentes y prevé cambios graduales posteriores, por lo que esta composición debe identificarse con el ejercicio 2026. El artículo 1 del TUO del IGV comprende venta de bienes muebles en el país, prestación o utilización de servicios, construcción, primera venta de inmuebles por constructores e importación de bienes. El impuesto mensual se determina descontando del impuesto bruto el crédito fiscal admisible. Para importación y utilización de servicios de no domiciliados existen reglas de determinación distintas del débito mensual ordinario. Los tratamientos especiales deben revisarse separadamente.",
+  "url_fuente": "https://www.gob.pe/7910-impuesto-general-a-las-ventas-igv",
+  "vigencia": "vigente",
+  "referencias_normativas": [
+    "TUO de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo, Decreto Supremo N° 055-99-EF y modificatorias, Artículos 1 al 17",
+    "D.S. N° 029-94-EF (Reglamento de la Ley del IGV)",
+    "Ley 32387, tercera disposición complementaria modificatoria; composición aplicable en 2026"
+  ],
+  "palabras_clave": [
+    "igv",
+    "tasa 18%",
+    "operaciones gravadas",
+    "debito fiscal",
+    "saldo a favor",
+    "igv 15.5%",
+    "ipm 2.5%",
+    "ley 32387",
+    "2026"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "En 2026 la tasa general conjunta sobre la base imponible es 18%, compuesta por IGV de 15.5% e Impuesto de Promoción Municipal de 2.5%. La Ley 32387 modificó la distribución de ambos componentes y prevé cambios graduales posteriores, por lo que esta composición debe identificarse con el ejercicio 2026. El artículo 1 del TUO del IGV comprende venta de bienes muebles en el país, prestación o utilización de servicios, construcción, primera venta de inmuebles por constructores e importación de bienes. El impuesto mensual se determina descontando del impuesto bruto el crédito fiscal admisible. Para importación y utilización de servicios de no domiciliados existen reglas de determinación distintas del débito mensual ordinario. Los tratamientos especiales deben revisarse separadamente."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "verificado_en_alcance",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregida composición 16% + 2% a 15.5% + 2.5% para 2026."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.gob.pe/7910-impuesto-general-a-las-ventas-igv",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/3109-05-calculo-del-impuesto",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/igv/ley/capitul5.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "Ley 32387, tercera disposición complementaria modificatoria; composición aplicable en 2026"
+    ],
+    "pendientes": []
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "lote": "lote-03-comprobantes-electronicos",
+  "fecha_consulta": "2026-11-03",
+  "cobertura": "Comprobantes de pago electrónicos en el Perú: Factura Electrónica, Boleta de Venta Electrónica, Nota de Crédito y Débito Electrónicas, Recibo por Honorarios Electrónico (RHE), Guía de Remisión Electrónica (GRE Remitente y Transportista), modalidades del Sistema de Emisión Electrónica (SEE-SOL, SEE-Contribuyente, SEE-OSE), plazo perentorio de envío de 3 días calendario, Constancia de Recepción (CDR) y Consulta Integrada de Validez.",
+  "urls_procesadas": [
+    "https://cpe.sunat.gob.pe/tipos_de_comprobantes/factura",
+    "https://cpe.sunat.gob.pe/informacion_general/obligados_cpe",
+    "https://orientacion.sunat.gob.pe/01-preguntas-frecuentes-comprobantes-de-pago",
+    "https://www.sunat.gob.pe/legislacion/superin/2015/132-2015.pdf",
+    "https://www.gob.pe/17414-emitir-nota-de-cr-dito-electr-nica",
+    "https://www.sunat.gob.pe/legislacion/superin/2018/113-2018.pdf",
+    "https://cpe.sunat.gob.pe/tipos_de_comprobantes/nota_de_debito",
+    "https://www.sunat.gob.pe/legislacion/superin/2025/000390-2025.pdf",
+    "https://personas.sunat.gob.pe/trabajador-independiente/suspension-retenciones",
+    "https://personas.sunat.gob.pe/trabajador-independiente/declaracion-pago",
+    "https://www.gob.pe/1101-emitir-recibo-por-honorarios-electronico",
+    "https://www.sunat.gob.pe/legislacion/superin/2020/105-2020.pdf",
+    "https://cpe.sunat.gob.pe/listado-de-contribuyentes",
+    "https://www.sunat.gob.pe/legislacion/superin/2023/000003-2023.pdf",
+    "https://www.sunat.gob.pe/legislacion/superin/2024/000302-2024.pdf",
+    "https://cpe.sunat.gob.pe/informacion_general/preguntas_frecuentes",
+    "https://cpe.sunat.gob.pe/sistema_emision/see_contribuyente",
+    "https://cpe.sunat.gob.pe/node/122",
+    "https://cpe.sunat.gob.pe/node/114",
+    "https://cpe.sunat.gob.pe/node/119",
+    "https://ww1.sunat.gob.pe/ol-ti-itconsultaunificadalibre/consultaUnificadaLibre/consulta.htm",
+    "https://ww3.sunat.gob.pe/ol-ti-itconsvalicpe/ConsValiCpe.htm"
+  ],
+  "pendientes": [
+    "Tratamiento tributario de comprobantes de pago emitidos por contingencia (formatos físicos autorizados)",
+    "Liquidaciones de compra electrónicas y pólizas de adjudicación"
+  ],
+  "documentos": [
+    {
+      "id": "cpe-001",
+      "categoria": "comprobantes",
+      "titulo": "Factura Electrónica: Usos, obligatoriedad, formas de pago y requisitos",
+      "contenido": "La factura electrónica puede sustentar costo, gasto y crédito fiscal cuando se cumplen las condiciones tributarias correspondientes. Se emite normalmente a un adquirente con RUC, pero SUNAT contempla excepción para no domiciliados en exportaciones. Deben distinguirse operaciones gravadas, exoneradas e inafectas y la tasa que corresponda. La obligación de emisión electrónica depende de designaciones y supuestos normativos; no debe afirmarse la desaparición absoluta de todos los comprobantes físicos. La emisión al crédito exige información sobre el saldo y las cuotas conforme al sistema. El documento aceptado no acredita por sí solo la realidad de la compra ni garantiza su deducibilidad.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Requisitos técnicos de crédito, cuotas y corrección según SEE y norma modificatoria aplicable.",
+      "url_fuente": "https://cpe.sunat.gob.pe/tipos_de_comprobantes/factura",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 007-99/SUNAT (Reglamento de Comprobantes de Pago)",
+        "Resolución de Superintendencia N° 193-2020/SUNAT (Forma de pago al contado o crédito en facturas)",
+        "R.S. N° 097-2012/SUNAT (Sistema de Emisión Electrónica desarrollado desde los sistemas del contribuyente)"
+      ],
+      "palabras_clave": [
+        "factura electronica",
+        "credito fiscal",
+        "forma de pago credito",
+        "ubl 2.1",
+        "b2b",
+        "requisitos factura"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La factura electrónica puede sustentar costo, gasto y crédito fiscal cuando se cumplen las condiciones tributarias correspondientes. Se emite normalmente a un adquirente con RUC, pero SUNAT contempla excepción para no domiciliados en exportaciones. Deben distinguirse operaciones gravadas, exoneradas e inafectas y la tasa que corresponda. La obligación de emisión electrónica depende de designaciones y supuestos normativos; no debe afirmarse la desaparición absoluta de todos los comprobantes físicos. La emisión al crédito exige información sobre el saldo y las cuotas conforme al sistema. El documento aceptado no acredita por sí solo la realidad de la compra ni garantiza su deducibilidad."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregidos RUC universal y obligación electrónica absoluta."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://cpe.sunat.gob.pe/tipos_de_comprobantes/factura",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cpe.sunat.gob.pe/informacion_general/obligados_cpe",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Requisitos técnicos de crédito, cuotas y corrección según SEE y norma modificatoria aplicable."
+        ]
+      }
+    },
+    {
+      "id": "cpe-002",
+      "categoria": "comprobantes",
+      "titulo": "Boleta de Venta Electrónica: Destinatarios, límite de S/ 700 y resumen diario",
+      "contenido": "La boleta se utiliza para consumidores finales. La regla general de identificación por monto exige consignar datos del comprador cuando el importe total supera S/ 700. Exactamente S/ 700 no activa esa condición por monto, sin perjuicio de otros supuestos de identificación. No otorga crédito fiscal del IGV. Los casos excepcionales de deducción para Renta requieren sus propias condiciones legales. El uso de resumen diario depende del sistema de emisión y documento, por lo que no debe aplicarse a todas las boletas de manera indiscriminada.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Plazos y modalidades vigentes del resumen diario y excepciones de gasto deducible.",
+      "url_fuente": "https://orientacion.sunat.gob.pe/01-preguntas-frecuentes-comprobantes-de-pago",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 007-99/SUNAT, Art. 4, Numeral 3",
+        "R.S. N° 097-2012/SUNAT y modificatorias"
+      ],
+      "palabras_clave": [
+        "boleta de venta",
+        "consumidor final",
+        "limite 700 soles",
+        "resumen diario",
+        "sin credito fiscal"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La boleta se utiliza para consumidores finales. La regla general de identificación por monto exige consignar datos del comprador cuando el importe total supera S/ 700. Exactamente S/ 700 no activa esa condición por monto, sin perjuicio de otros supuestos de identificación. No otorga crédito fiscal del IGV. Los casos excepcionales de deducción para Renta requieren sus propias condiciones legales. El uso de resumen diario depende del sistema de emisión y documento, por lo que no debe aplicarse a todas las boletas de manera indiscriminada."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregido umbral de igual o superior a estrictamente superior a S/ 700."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://orientacion.sunat.gob.pe/01-preguntas-frecuentes-comprobantes-de-pago",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/superin/2015/132-2015.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Plazos y modalidades vigentes del resumen diario y excepciones de gasto deducible."
+        ]
+      }
+    },
+    {
+      "id": "cpe-003",
+      "categoria": "comprobantes",
+      "titulo": "Notas de Crédito y Notas de Débito Electrónicas",
+      "contenido": "La nota de crédito permite modificar operaciones mediante anulaciones, descuentos, devoluciones o bonificaciones en los supuestos autorizados. La nota de débito documenta incrementos procedentes conforme a las reglas aplicables. Debe identificarse el comprobante afectado y el motivo. No es correcto afirmar que toda factura aceptada solo puede dejarse sin efecto mediante nota de crédito: la normativa también contempla comunicaciones de baja y tratamiento de anulaciones en resumen diario, según sistema, entrega y supuesto. La oportunidad del ajuste de IGV debe revisarse según su causa y los requisitos legales, sin equipararla automáticamente a la fecha de emisión de cualquier nota.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Plazos y requisitos de baja y notas según SEE, entrega, motivo y período de ajuste fiscal.",
+      "url_fuente": "https://www.gob.pe/17414-emitir-nota-de-cr-dito-electr-nica",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 007-99/SUNAT, Artículo 10",
+        "R.S. N° 097-2012/SUNAT (Catálogos de motivos de Nota de Crédito y Débito)"
+      ],
+      "palabras_clave": [
+        "nota de credito",
+        "nota de debito",
+        "anulacion",
+        "descuentos",
+        "motivo de emision",
+        "comprobante modificatorio"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La nota de crédito permite modificar operaciones mediante anulaciones, descuentos, devoluciones o bonificaciones en los supuestos autorizados. La nota de débito documenta incrementos procedentes conforme a las reglas aplicables. Debe identificarse el comprobante afectado y el motivo. No es correcto afirmar que toda factura aceptada solo puede dejarse sin efecto mediante nota de crédito: la normativa también contempla comunicaciones de baja y tratamiento de anulaciones en resumen diario, según sistema, entrega y supuesto. La oportunidad del ajuste de IGV debe revisarse según su causa y los requisitos legales, sin equipararla automáticamente a la fecha de emisión de cualquier nota."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Retirada nota de crédito como única vía de anulación."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.gob.pe/17414-emitir-nota-de-cr-dito-electr-nica",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/superin/2018/113-2018.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cpe.sunat.gob.pe/tipos_de_comprobantes/nota_de_debito",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Plazos y requisitos de baja y notas según SEE, entrega, motivo y período de ajuste fiscal."
+        ]
+      }
+    },
+    {
+      "id": "cpe-004",
+      "categoria": "comprobantes",
+      "titulo": "Recibo por Honorarios Electrónico (RHE): Emisión, retención del 8% y suspensión",
+      "contenido": "Los recibos por honorarios corresponden a servicios independientes comprendidos en cuarta categoría. La retención ordinaria es 8% cuando el pagador es agente de retención y el recibo supera S/ 1,500, salvo suspensión válida u otra excepción. Para 2026, la RS 000390-2025/SUNAT fija S/ 48,125 anuales como umbral general de suspensión y S/ 38,500 para funciones de director, síndico, mandatario y similares. Los importes mensuales de referencia son S/ 4,010 y S/ 3,208, respectivamente. No dependen de tener familiares a cargo. La solicitud se efectúa por Formulario Virtual 1609 y deben revisarse las condiciones de reinicio. El recibo al crédito debe identificar saldo y vencimientos, y el pago recibido se registra.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Oportunidad precisa de emisión y plazo de registro de pagos según modificaciones vigentes.",
+      "url_fuente": "https://www.sunat.gob.pe/legislacion/superin/2025/000390-2025.pdf",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Artículos 33, 71 y 74",
+        "Resolución de Superintendencia N° 182-2008/SUNAT (Sistema de Emisión Electrónica de RHE)",
+        "RS 000390-2025/SUNAT, importes desde 2026-01-01"
+      ],
+      "palabras_clave": [
+        "recibo por honorarios",
+        "cuarta categoria",
+        "retencion 8%",
+        "limite 1500",
+        "suspension retenciones",
+        "formulario 1609"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Los recibos por honorarios corresponden a servicios independientes comprendidos en cuarta categoría. La retención ordinaria es 8% cuando el pagador es agente de retención y el recibo supera S/ 1,500, salvo suspensión válida u otra excepción. Para 2026, la RS 000390-2025/SUNAT fija S/ 48,125 anuales como umbral general de suspensión y S/ 38,500 para funciones de director, síndico, mandatario y similares. Los importes mensuales de referencia son S/ 4,010 y S/ 3,208, respectivamente. No dependen de tener familiares a cargo. La solicitud se efectúa por Formulario Virtual 1609 y deben revisarse las condiciones de reinicio. El recibo al crédito debe identificar saldo y vencimientos, y el pago recibido se registra."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregido monto aproximado S/ 45,063 y eliminada condición de dependientes."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/superin/2025/000390-2025.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://personas.sunat.gob.pe/trabajador-independiente/suspension-retenciones",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://personas.sunat.gob.pe/trabajador-independiente/declaracion-pago",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.gob.pe/1101-emitir-recibo-por-honorarios-electronico",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "RS 000390-2025/SUNAT, importes desde 2026-01-01"
+        ],
+        "pendientes": [
+          "Oportunidad precisa de emisión y plazo de registro de pagos según modificaciones vigentes."
+        ]
+      }
+    },
+    {
+      "id": "cpe-005",
+      "categoria": "comprobantes",
+      "titulo": "Modalidades del Sistema de Emisión Electrónica: SEE-SOL, SEE-Contribuyente y SEE-OSE",
+      "contenido": "Los SEE incluyen SOL, sistemas del contribuyente, Facturador SUNAT y OSE, con características y obligaciones propias. El uso de OSE no deriva automáticamente de ser PRICO. La RS 239-2018/SUNAT y sus modificaciones contemplan sujetos y condiciones para utilizar SEE-OSE y/o SEE-SOL. La RS 105-2020/SUNAT describe, entre otros, el supuesto de principales contribuyentes con ingresos anuales anteriores de al menos 300 UIT. Existe un listado oficial de nuevos obligados desde el 1 de julio de 2026. Debe contrastarse el contribuyente, período y designación antes de afirmar que necesita contratar un operador.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Listado concreto de obligados 2026 y cadena completa de modificaciones de RS 239-2018.",
+      "url_fuente": "https://www.sunat.gob.pe/legislacion/superin/2020/105-2020.pdf",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 300-2014/SUNAT (Crea el marco general del SEE)",
+        "Decreto Legislativo N° 1314 (Faculta a la SUNAT a establecer el uso de Operadores de Servicios Electrónicos)",
+        "R.S. N° 117-2017/SUNAT (Reglamento del SEE-OSE)",
+        "RS 239-2018/SUNAT y RS 105-2020/SUNAT"
+      ],
+      "palabras_clave": [
+        "see sol",
+        "see contribuyente",
+        "see ose",
+        "facturador sunat",
+        "sfs",
+        "certificado digital",
+        "ubl 2.1"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Los SEE incluyen SOL, sistemas del contribuyente, Facturador SUNAT y OSE, con características y obligaciones propias. El uso de OSE no deriva automáticamente de ser PRICO. La RS 239-2018/SUNAT y sus modificaciones contemplan sujetos y condiciones para utilizar SEE-OSE y/o SEE-SOL. La RS 105-2020/SUNAT describe, entre otros, el supuesto de principales contribuyentes con ingresos anuales anteriores de al menos 300 UIT. Existe un listado oficial de nuevos obligados desde el 1 de julio de 2026. Debe contrastarse el contribuyente, período y designación antes de afirmar que necesita contratar un operador."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregida obligación universal de contratar OSE para PRICO."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/superin/2020/105-2020.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cpe.sunat.gob.pe/listado-de-contribuyentes",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "RS 239-2018/SUNAT y RS 105-2020/SUNAT"
+        ],
+        "pendientes": [
+          "Listado concreto de obligados 2026 y cadena completa de modificaciones de RS 239-2018."
+        ]
+      }
+    },
+    {
+      "id": "cpe-006",
+      "categoria": "comprobantes",
+      "titulo": "Plazo de Envío de Facturas Electrónicas (3 días calendario) y Validez Legal",
+      "contenido": "En los SEE del contribuyente, SFS y OSE, la factura y las notas vinculadas deben enviarse en la fecha de emisión o dentro de los tres días calendario siguientes, según la norma del sistema. La RS 000003-2023/SUNAT y la RS 000302-2024/SUNAT respaldan el plazo. Una emisión del 10 de noviembre tendría como tercer día el 13 de noviembre, sin atribuir un día de semana incompatible con el año. Lo no remitido en plazo no adquiere la calidad electrónica indicada por la norma. La solución de una omisión debe respetar la oportunidad original de emisión y las obligaciones tributarias; no se recomienda simplemente cambiar la fecha de una operación.",
+      "url_fuente": "https://www.sunat.gob.pe/legislacion/superin/2023/000003-2023.pdf",
+      "vigencia": "vigente",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 000150-2021/SUNAT",
+        "Resolución de Superintendencia N° 000003-2023/SUNAT (Plazo de 3 días calendario para envío de comprobantes)",
+        "RS 000003-2023/SUNAT",
+        "RS 000302-2024/SUNAT"
+      ],
+      "palabras_clave": [
+        "plazo de envio",
+        "3 dias calendario",
+        "rechazo sunat",
+        "perdida de credito fiscal",
+        "validez tributaria"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "En los SEE del contribuyente, SFS y OSE, la factura y las notas vinculadas deben enviarse en la fecha de emisión o dentro de los tres días calendario siguientes, según la norma del sistema. La RS 000003-2023/SUNAT y la RS 000302-2024/SUNAT respaldan el plazo. Una emisión del 10 de noviembre tendría como tercer día el 13 de noviembre, sin atribuir un día de semana incompatible con el año. Lo no remitido en plazo no adquiere la calidad electrónica indicada por la norma. La solución de una omisión debe respetar la oportunidad original de emisión y las obligaciones tributarias; no se recomienda simplemente cambiar la fecha de una operación."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "verificado_en_alcance",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Confirmados tres días frente a página antigua de siete; retirada recomendación de redatar."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/superin/2023/000003-2023.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/superin/2024/000302-2024.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cpe.sunat.gob.pe/informacion_general/preguntas_frecuentes",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "RS 000003-2023/SUNAT",
+          "RS 000302-2024/SUNAT"
+        ],
+        "pendientes": []
+      }
+    },
+    {
+      "id": "cpe-007",
+      "categoria": "comprobantes",
+      "titulo": "Constancia de Recepción (CDR): Función, estados y valor probatorio",
+      "contenido": "La CDR informa el resultado de las comprobaciones informáticas del documento remitido. Deben distinguirse aceptación, aceptación con observaciones y rechazo conforme al sistema y catálogo. La aceptación no acredita por sí misma que la operación ocurrió, que el gasto sea causal o que se cumplan todos los requisitos del crédito fiscal. El PDF es una representación del comprobante, cuyo respaldo depende del SEE. No se afirma que un XML y CDR conservados por el usuario sean la única prueba admisible para todos los sistemas, incluido SOL. Los códigos y causales concretos deben contrastarse con el catálogo vigente.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Catálogo de respuestas vigente y reglas de conservación y consulta según cada SEE.",
+      "url_fuente": "https://cpe.sunat.gob.pe/sistema_emision/see_contribuyente",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 097-2012/SUNAT y normas modificatorias",
+        "R.S. N° 117-2017/SUNAT (Especificaciones técnicas del CDR)"
+      ],
+      "palabras_clave": [
+        "cdr",
+        "constancia de recepcion",
+        "aceptada",
+        "rechazada",
+        "observada",
+        "prueba tributaria"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La CDR informa el resultado de las comprobaciones informáticas del documento remitido. Deben distinguirse aceptación, aceptación con observaciones y rechazo conforme al sistema y catálogo. La aceptación no acredita por sí misma que la operación ocurrió, que el gasto sea causal o que se cumplan todos los requisitos del crédito fiscal. El PDF es una representación del comprobante, cuyo respaldo depende del SEE. No se afirma que un XML y CDR conservados por el usuario sean la única prueba admisible para todos los sistemas, incluido SOL. Los códigos y causales concretos deben contrastarse con el catálogo vigente."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Retiradas garantía de deducibilidad y CDR como prueba única universal."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://cpe.sunat.gob.pe/sistema_emision/see_contribuyente",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Catálogo de respuestas vigente y reglas de conservación y consulta según cada SEE."
+        ]
+      }
+    },
+    {
+      "id": "cpe-008",
+      "categoria": "comprobantes",
+      "titulo": "Guía de Remisión Electrónica (GRE): Remitente y Transportista",
+      "contenido": "La GRE sustenta traslados terrestres conforme a las reglas de remitente, transportista y eventos. Se emite mediante SOL, App Emprender o sistemas propios. Debe verificarse si corresponden una o ambas guías y si existe excepción. El QR es una forma de sustento, no una obligación universal de exhibir solo ese código. SUNAT informa que la RSNATI 000031-2026-SUNAT/700000 extendió la discrecionalidad para determinados supuestos de GRE remitente hasta el 31 de agosto de 2026 y de transportista hasta el 28 de febrero de 2027. No equivale a una dispensa general de emitir guía. La sanción depende del sujeto, conducta, tabla y discrecionalidad aplicable.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Texto íntegro y condiciones de RSNATI 000031-2026, eventuales ampliaciones posteriores y modificaciones de sujetos obligados.",
+      "url_fuente": "https://cpe.sunat.gob.pe/node/122",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 000123-2022/SUNAT (Nuevo modelo de emisión de la GRE)",
+        "Texto Único Ordenado del Código Tributario, D.S. N° 133-2013-EF, Art. 174",
+        "RS 000123-2022/SUNAT",
+        "RSNATI 000031-2026-SUNAT/700000; resumen oficial consultado, texto íntegro pendiente"
+      ],
+      "palabras_clave": [
+        "guia de remision",
+        "gre remitente",
+        "gre transportista",
+        "traslado de bienes",
+        "codigo qr",
+        "comiso"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La GRE sustenta traslados terrestres conforme a las reglas de remitente, transportista y eventos. Se emite mediante SOL, App Emprender o sistemas propios. Debe verificarse si corresponden una o ambas guías y si existe excepción. El QR es una forma de sustento, no una obligación universal de exhibir solo ese código. SUNAT informa que la RSNATI 000031-2026-SUNAT/700000 extendió la discrecionalidad para determinados supuestos de GRE remitente hasta el 31 de agosto de 2026 y de transportista hasta el 28 de febrero de 2027. No equivale a una dispensa general de emitir guía. La sanción depende del sujeto, conducta, tabla y discrecionalidad aplicable."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregidos ambas guías siempre y sanción automática; añadida actualización 2026."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://cpe.sunat.gob.pe/node/122",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cpe.sunat.gob.pe/node/114",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://cpe.sunat.gob.pe/node/119",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "RS 000123-2022/SUNAT",
+          "RSNATI 000031-2026-SUNAT/700000; resumen oficial consultado, texto íntegro pendiente"
+        ],
+        "pendientes": [
+          "Texto íntegro y condiciones de RSNATI 000031-2026, eventuales ampliaciones posteriores y modificaciones de sujetos obligados."
+        ]
+      }
+    },
+    {
+      "id": "cpe-009",
+      "categoria": "comprobantes",
+      "titulo": "Consulta Integrada de Validez de Comprobantes de Pago Electrónicos",
+      "contenido": "La consulta oficial permite comprobar si determinados documentos están registrados o informados a SUNAT. El resultado debe distinguirse de la comprobación de realidad de la operación y de todos los requisitos de deducibilidad. La consulta individual solicita los datos indicados por su formulario y separa estado del comprobante, estado del contribuyente y condición de domicilio. Un resultado sin registro puede deberse a errores en los datos o a un envío todavía dentro del plazo permitido. No acredita automáticamente falsificación ni justifica por sí solo una prohibición universal de pago. Debe aclararse con el emisor y revisar nuevamente el estado.",
+      "url_fuente": "https://ww1.sunat.gob.pe/ol-ti-itconsultaunificadalibre/consultaUnificadaLibre/consulta.htm",
+      "vigencia": "vigente",
+      "referencias_normativas": [
+        "Resolución de Superintendencia N° 190-2017/SUNAT (Consulta de validez de comprobantes)",
+        "Código Tributario, Artículos 87 y 174"
+      ],
+      "palabras_clave": [
+        "consulta de validez",
+        "verificar factura",
+        "autenticidad comprobante",
+        "debida diligencia",
+        "serie y numero"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "La consulta oficial permite comprobar si determinados documentos están registrados o informados a SUNAT. El resultado debe distinguirse de la comprobación de realidad de la operación y de todos los requisitos de deducibilidad. La consulta individual solicita los datos indicados por su formulario y separa estado del comprobante, estado del contribuyente y condición de domicilio. Un resultado sin registro puede deberse a errores en los datos o a un envío todavía dentro del plazo permitido. No acredita automáticamente falsificación ni justifica por sí solo una prohibición universal de pago. Debe aclararse con el emisor y revisar nuevamente el estado."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "verificado_en_alcance",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Retirados RUC del adquirente universal y conclusión automática de falsificación o impago."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://ww1.sunat.gob.pe/ol-ti-itconsultaunificadalibre/consultaUnificadaLibre/consulta.htm",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://ww3.sunat.gob.pe/ol-ti-itconsvalicpe/ConsValiCpe.htm",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": []
+      }
+    }
+  ],
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "revisado_con_pendientes",
+    "documentos_revisados": 9
+  },
+  "pendientes_auditoria": [
+    {
+      "id": "cpe-001",
+      "detalle": "Requisitos técnicos de crédito, cuotas y corrección según SEE y norma modificatoria aplicable."
+    },
+    {
+      "id": "cpe-002",
+      "detalle": "Plazos y modalidades vigentes del resumen diario y excepciones de gasto deducible."
+    },
+    {
+      "id": "cpe-003",
+      "detalle": "Plazos y requisitos de baja y notas según SEE, entrega, motivo y período de ajuste fiscal."
+    },
+    {
+      "id": "cpe-004",
+      "detalle": "Oportunidad precisa de emisión y plazo de registro de pagos según modificaciones vigentes."
+    },
+    {
+      "id": "cpe-005",
+      "detalle": "Listado concreto de obligados 2026 y cadena completa de modificaciones de RS 239-2018."
+    },
+    {
+      "id": "cpe-007",
+      "detalle": "Catálogo de respuestas vigente y reglas de conservación y consulta según cada SEE."
+    },
+    {
+      "id": "cpe-008",
+      "detalle": "Texto íntegro y condiciones de RSNATI 000031-2026, eventuales ampliaciones posteriores y modificaciones de sujetos obligados."
+    }
+  ]
+}

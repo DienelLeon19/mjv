@@ -1,0 +1,51 @@
+{
+  "id": "reg-003",
+  "categoria": "regimenes",
+  "titulo": "Régimen MYPE Tributario (RMT)",
+  "contenido": "El RMT se rige por el Decreto Legislativo 1269 y admite sujetos domiciliados con ingresos netos anuales de hasta 1,700 UIT, cumpliendo las demás condiciones. Hasta 300 UIT de ingresos netos anuales, el pago a cuenta ordinario es 1% del ingreso neto mensual. Superado ese umbral se aplica el artículo 85 de la Ley del Impuesto a la Renta. La renta neta anual tributa progresivamente: 10% hasta quince UIT y 29.5% sobre el exceso. Deben evaluarse exclusiones por vinculación y por establecimientos de empresas extranjeras. No basta cumplir el límite de ventas para quedar admitido.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Detalle actualizado de libros por tramo, exclusiones sectoriales y reglas especiales de suspensión de pagos.",
+  "url_fuente": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Decreto Legislativo N° 1269 (Crea el Régimen MYPE Tributario del Impuesto a la Renta)",
+    "Decreto Supremo N° 403-2016-EF (Reglamento del Decreto Legislativo N° 1269)"
+  ],
+  "palabras_clave": [
+    "rmt",
+    "mype tributario",
+    "1700 uit",
+    "pago a cuenta 1%",
+    "tasa 10%",
+    "tasa 29.5%",
+    "dl 1269"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El RMT se rige por el Decreto Legislativo 1269 y admite sujetos domiciliados con ingresos netos anuales de hasta 1,700 UIT, cumpliendo las demás condiciones. Hasta 300 UIT de ingresos netos anuales, el pago a cuenta ordinario es 1% del ingreso neto mensual. Superado ese umbral se aplica el artículo 85 de la Ley del Impuesto a la Renta. La renta neta anual tributa progresivamente: 10% hasta quince UIT y 29.5% sobre el exceso. Deben evaluarse exclusiones por vinculación y por establecimientos de empresas extranjeras. No basta cumplir el límite de ventas para quedar admitido."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Retirada exclusión financiera genérica no acreditada y precisada base del pago mensual."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/sites/default/files/inline-files/REMYPe.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Detalle actualizado de libros por tramo, exclusiones sectoriales y reglas especiales de suspensión de pagos."
+    ]
+  }
+}

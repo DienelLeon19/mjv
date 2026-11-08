@@ -1,0 +1,52 @@
+{
+  "id": "ruc-001",
+  "categoria": "ruc",
+  "titulo": "Definición del RUC, obligatoriedad y estructura del número",
+  "contenido": "El RUC identifica al contribuyente mediante un número único de once dígitos. Su inscripción y actualización se rigen por el Decreto Legislativo 943 y las disposiciones de SUNAT. Se utiliza en declaraciones y trámites tributarios. La obligación de inscripción depende de los supuestos legales, incluidas las excepciones aplicables a determinadas operaciones. No se debe deducir la nacionalidad ni la situación tributaria únicamente a partir del prefijo del número. Se retiró la clasificación de prefijos 15 y 17 como regla vigente para extranjeros por falta de verificación.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Correspondencia actual de prefijos 10, 15, 17 y 20 y excepciones de inscripción para operaciones ocasionales.",
+  "url_fuente": "https://ww3.sunat.gob.pe/ol-ti-itinsrucsol/iruc001Alias",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Decreto Legislativo N° 943 - Ley del Registro Único de Contribuyentes",
+    "Resolución de Superintendencia N° 210-2004/SUNAT (Reglamento de la Ley del RUC)",
+    "Texto Único Ordenado del Código Tributario, D.S. N° 133-2013-EF, Art. 87"
+  ],
+  "palabras_clave": [
+    "ruc",
+    "definicion",
+    "obligatoriedad",
+    "11 digitos",
+    "ruc 10",
+    "ruc 20",
+    "sunat"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El RUC identifica al contribuyente mediante un número único de once dígitos. Su inscripción y actualización se rigen por el Decreto Legislativo 943 y las disposiciones de SUNAT. Se utiliza en declaraciones y trámites tributarios. La obligación de inscripción depende de los supuestos legales, incluidas las excepciones aplicables a determinadas operaciones. No se debe deducir la nacionalidad ni la situación tributaria únicamente a partir del prefijo del número. Se retiró la clasificación de prefijos 15 y 17 como regla vigente para extranjeros por falta de verificación."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Retirada clasificación no acreditada de extranjeros por prefijo."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://ww3.sunat.gob.pe/ol-ti-itinsrucsol/iruc001Alias",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/ruc/fdetalle.htm",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Correspondencia actual de prefijos 10, 15, 17 y 20 y excepciones de inscripción para operaciones ocasionales."
+    ]
+  }
+}

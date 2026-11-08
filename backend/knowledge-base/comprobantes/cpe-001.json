@@ -1,0 +1,51 @@
+{
+  "id": "cpe-001",
+  "categoria": "comprobantes",
+  "titulo": "Factura Electrónica: Usos, obligatoriedad, formas de pago y requisitos",
+  "contenido": "La factura electrónica puede sustentar costo, gasto y crédito fiscal cuando se cumplen las condiciones tributarias correspondientes. Se emite normalmente a un adquirente con RUC, pero SUNAT contempla excepción para no domiciliados en exportaciones. Deben distinguirse operaciones gravadas, exoneradas e inafectas y la tasa que corresponda. La obligación de emisión electrónica depende de designaciones y supuestos normativos; no debe afirmarse la desaparición absoluta de todos los comprobantes físicos. La emisión al crédito exige información sobre el saldo y las cuotas conforme al sistema. El documento aceptado no acredita por sí solo la realidad de la compra ni garantiza su deducibilidad.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Requisitos técnicos de crédito, cuotas y corrección según SEE y norma modificatoria aplicable.",
+  "url_fuente": "https://cpe.sunat.gob.pe/tipos_de_comprobantes/factura",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 007-99/SUNAT (Reglamento de Comprobantes de Pago)",
+    "Resolución de Superintendencia N° 193-2020/SUNAT (Forma de pago al contado o crédito en facturas)",
+    "R.S. N° 097-2012/SUNAT (Sistema de Emisión Electrónica desarrollado desde los sistemas del contribuyente)"
+  ],
+  "palabras_clave": [
+    "factura electronica",
+    "credito fiscal",
+    "forma de pago credito",
+    "ubl 2.1",
+    "b2b",
+    "requisitos factura"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La factura electrónica puede sustentar costo, gasto y crédito fiscal cuando se cumplen las condiciones tributarias correspondientes. Se emite normalmente a un adquirente con RUC, pero SUNAT contempla excepción para no domiciliados en exportaciones. Deben distinguirse operaciones gravadas, exoneradas e inafectas y la tasa que corresponda. La obligación de emisión electrónica depende de designaciones y supuestos normativos; no debe afirmarse la desaparición absoluta de todos los comprobantes físicos. La emisión al crédito exige información sobre el saldo y las cuotas conforme al sistema. El documento aceptado no acredita por sí solo la realidad de la compra ni garantiza su deducibilidad."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregidos RUC universal y obligación electrónica absoluta."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://cpe.sunat.gob.pe/tipos_de_comprobantes/factura",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cpe.sunat.gob.pe/informacion_general/obligados_cpe",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Requisitos técnicos de crédito, cuotas y corrección según SEE y norma modificatoria aplicable."
+    ]
+  }
+}

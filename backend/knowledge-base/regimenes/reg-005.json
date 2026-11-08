@@ -1,0 +1,53 @@
+{
+  "id": "reg-005",
+  "categoria": "regimenes",
+  "titulo": "Reglas, Oportunidad y Procedimiento para el Cambio de Régimen Tributario",
+  "contenido": "Los cambios deben evaluarse por régimen de origen y destino. Para pasar del Régimen General o RMT al RER, SUNAT exige declaración y pago de enero dentro del vencimiento. Desde el NRUS al RER puede hacerse en cualquier mes, cumpliendo requisitos. El retorno al NRUS desde otro régimen se realiza en enero e incluye condiciones sobre declaración, pago, baja de comprobantes y establecimientos. El ingreso del Régimen General al RMT se rige por el artículo 8 del Decreto Legislativo 1269. No debe trasladarse automáticamente la exigencia de pago del RER a cualquier cambio al RMT. La expresión 'de menor a mayor' es insuficiente como regla jurídica.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Matriz completa de cambios y efectos del exceso de umbrales con revisión literal de artículos 8 y 9 del DL 1269.",
+  "url_fuente": "https://www.gob.pe/1201-regimen-especial-de-renta-rer-cambiar-al-rer",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Art. 121",
+    "D.L. N° 1269 (RMT), Artículo 8"
+  ],
+  "palabras_clave": [
+    "cambio de regimen",
+    "periodo enero",
+    "de menor a mayor",
+    "de mayor a menor",
+    "cambio de oficio"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Los cambios deben evaluarse por régimen de origen y destino. Para pasar del Régimen General o RMT al RER, SUNAT exige declaración y pago de enero dentro del vencimiento. Desde el NRUS al RER puede hacerse en cualquier mes, cumpliendo requisitos. El retorno al NRUS desde otro régimen se realiza en enero e incluye condiciones sobre declaración, pago, baja de comprobantes y establecimientos. El ingreso del Régimen General al RMT se rige por el artículo 8 del Decreto Legislativo 1269. No debe trasladarse automáticamente la exigencia de pago del RER a cualquier cambio al RMT. La expresión 'de menor a mayor' es insuficiente como regla jurídica."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Sustituida regla jerárquica general por rutas verificadas."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.gob.pe/1201-regimen-especial-de-renta-rer-cambiar-al-rer",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Matriz completa de cambios y efectos del exceso de umbrales con revisión literal de artículos 8 y 9 del DL 1269."
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ruc-002",
+  "categoria": "ruc",
+  "titulo": "Inscripción en el RUC para Personas Naturales (con y sin negocio)",
+  "contenido": "La inscripción virtual de personas naturales requiere DNI, celular, correo y datos de la actividad. SUNAT Virtual y App Personas permiten validar la identidad y generar Clave SOL durante la inscripción. Deben indicarse domicilio fiscal, actividad económica y, si existe negocio, régimen tributario. La ficha oficial distingue la fecha de inicio declarada en SUNAT Virtual de la inscripción por App Personas, donde coincide con la inscripción. Para acreditar domicilio presencialmente, SUNAT admite documentación pública o privada que contenga la dirección. Se retiró el requisito general de antigüedad máxima de dos meses del documento domiciliario, que no quedó acreditado. Los requisitos documentarios de extranjeros y representantes deben verificarse según el canal y supuesto.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Documentos migratorios admitidos en noviembre de 2026 y requisitos completos de representación presencial.",
+  "url_fuente": "https://www.gob.pe/284-inscripcion-a-ruc-persona-natura",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 210-2004/SUNAT",
+    "Resolución de Superintendencia N° 144-2020/SUNAT (Inscripción virtual con biometría)"
+  ],
+  "palabras_clave": [
+    "inscripcion ruc",
+    "persona natural",
+    "app personas",
+    "biometria",
+    "sunat virtual",
+    "requisitos"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La inscripción virtual de personas naturales requiere DNI, celular, correo y datos de la actividad. SUNAT Virtual y App Personas permiten validar la identidad y generar Clave SOL durante la inscripción. Deben indicarse domicilio fiscal, actividad económica y, si existe negocio, régimen tributario. La ficha oficial distingue la fecha de inicio declarada en SUNAT Virtual de la inscripción por App Personas, donde coincide con la inscripción. Para acreditar domicilio presencialmente, SUNAT admite documentación pública o privada que contenga la dirección. Se retiró el requisito general de antigüedad máxima de dos meses del documento domiciliario, que no quedó acreditado. Los requisitos documentarios de extranjeros y representantes deben verificarse según el canal y supuesto."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Eliminado límite de dos meses y precisada fecha de inicio en App Personas."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.gob.pe/284-inscripcion-a-ruc-persona-natura",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/1097-0-inscribete-en-el-ruc",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cdn.www.gob.pe/uploads/document/file/289280/Gui%CC%81a_de_la_formalizacio%CC%81n_21-11.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Documentos migratorios admitidos en noviembre de 2026 y requisitos completos de representación presencial."
+    ]
+  }
+}

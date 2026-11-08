@@ -1,0 +1,52 @@
+{
+  "id": "igv-003",
+  "categoria": "igv",
+  "titulo": "Operaciones Exoneradas e Inafectas del IGV: Apéndices I y II",
+  "contenido": "Los artículos 5 a 7 del TUO del IGV regulan las exoneraciones de los Apéndices I y II. La Ley 32542, publicada el 31 de diciembre de 2025 y vigente desde el 1 de enero de 2026, prorrogó su vigencia hasta el 31 de diciembre de 2028. La exoneración requiere comprobar que el bien, su clasificación y la operación coincidan con el apéndice. La inafectación responde a los supuestos del artículo 2 u otra norma específica. Se retira el listado anterior que atribuía automáticamente exoneración a servicios postales y espectáculos, e inafectación a pasajes de entidades religiosas o diplomáticas. Cada supuesto exige su propia base normativa. La prórroga general no valida esos ejemplos.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Verificación individual de bienes, subpartidas, servicios, inafectaciones y tratamiento del crédito de adquisiciones mixtas.",
+  "url_fuente": "https://www.sunat.gob.pe/legislacion/igv/ley/capitul2.pdf",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "TUO de la Ley del IGV, D.S. N° 055-99-EF, Artículos 2, 5 y Apéndices I y II",
+    "Ley 32542, artículo único y primera disposición complementaria final, vigente desde 2026-01-01"
+  ],
+  "palabras_clave": [
+    "inafectaciones",
+    "exoneraciones",
+    "apendice I",
+    "apendice II",
+    "transporte urbano",
+    "productos primarios"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Los artículos 5 a 7 del TUO del IGV regulan las exoneraciones de los Apéndices I y II. La Ley 32542, publicada el 31 de diciembre de 2025 y vigente desde el 1 de enero de 2026, prorrogó su vigencia hasta el 31 de diciembre de 2028. La exoneración requiere comprobar que el bien, su clasificación y la operación coincidan con el apéndice. La inafectación responde a los supuestos del artículo 2 u otra norma específica. Se retira el listado anterior que atribuía automáticamente exoneración a servicios postales y espectáculos, e inafectación a pasajes de entidades religiosas o diplomáticas. Cada supuesto exige su propia base normativa. La prórroga general no valida esos ejemplos."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Incorporada Ley 32542 y retirados ejemplos sin sustento suficiente."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/igv/ley/capitul2.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/3054-02-operaciones-exoneradas-o-inafectas-y-renuncia-a-la-exoneracion",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "Ley 32542, artículo único y primera disposición complementaria final, vigente desde 2026-01-01"
+    ],
+    "pendientes": [
+      "Verificación individual de bienes, subpartidas, servicios, inafectaciones y tratamiento del crédito de adquisiciones mixtas."
+    ]
+  }
+}

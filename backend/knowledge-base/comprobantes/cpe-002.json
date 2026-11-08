@@ -1,0 +1,49 @@
+{
+  "id": "cpe-002",
+  "categoria": "comprobantes",
+  "titulo": "Boleta de Venta Electrónica: Destinatarios, límite de S/ 700 y resumen diario",
+  "contenido": "La boleta se utiliza para consumidores finales. La regla general de identificación por monto exige consignar datos del comprador cuando el importe total supera S/ 700. Exactamente S/ 700 no activa esa condición por monto, sin perjuicio de otros supuestos de identificación. No otorga crédito fiscal del IGV. Los casos excepcionales de deducción para Renta requieren sus propias condiciones legales. El uso de resumen diario depende del sistema de emisión y documento, por lo que no debe aplicarse a todas las boletas de manera indiscriminada.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Plazos y modalidades vigentes del resumen diario y excepciones de gasto deducible.",
+  "url_fuente": "https://orientacion.sunat.gob.pe/01-preguntas-frecuentes-comprobantes-de-pago",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 007-99/SUNAT, Art. 4, Numeral 3",
+    "R.S. N° 097-2012/SUNAT y modificatorias"
+  ],
+  "palabras_clave": [
+    "boleta de venta",
+    "consumidor final",
+    "limite 700 soles",
+    "resumen diario",
+    "sin credito fiscal"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La boleta se utiliza para consumidores finales. La regla general de identificación por monto exige consignar datos del comprador cuando el importe total supera S/ 700. Exactamente S/ 700 no activa esa condición por monto, sin perjuicio de otros supuestos de identificación. No otorga crédito fiscal del IGV. Los casos excepcionales de deducción para Renta requieren sus propias condiciones legales. El uso de resumen diario depende del sistema de emisión y documento, por lo que no debe aplicarse a todas las boletas de manera indiscriminada."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregido umbral de igual o superior a estrictamente superior a S/ 700."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://orientacion.sunat.gob.pe/01-preguntas-frecuentes-comprobantes-de-pago",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/superin/2015/132-2015.pdf",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Plazos y modalidades vigentes del resumen diario y excepciones de gasto deducible."
+    ]
+  }
+}

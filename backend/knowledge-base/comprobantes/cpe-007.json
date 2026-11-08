@@ -1,0 +1,46 @@
+{
+  "id": "cpe-007",
+  "categoria": "comprobantes",
+  "titulo": "Constancia de Recepción (CDR): Función, estados y valor probatorio",
+  "contenido": "La CDR informa el resultado de las comprobaciones informáticas del documento remitido. Deben distinguirse aceptación, aceptación con observaciones y rechazo conforme al sistema y catálogo. La aceptación no acredita por sí misma que la operación ocurrió, que el gasto sea causal o que se cumplan todos los requisitos del crédito fiscal. El PDF es una representación del comprobante, cuyo respaldo depende del SEE. No se afirma que un XML y CDR conservados por el usuario sean la única prueba admisible para todos los sistemas, incluido SOL. Los códigos y causales concretos deben contrastarse con el catálogo vigente.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Catálogo de respuestas vigente y reglas de conservación y consulta según cada SEE.",
+  "url_fuente": "https://cpe.sunat.gob.pe/sistema_emision/see_contribuyente",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 097-2012/SUNAT y normas modificatorias",
+    "R.S. N° 117-2017/SUNAT (Especificaciones técnicas del CDR)"
+  ],
+  "palabras_clave": [
+    "cdr",
+    "constancia de recepcion",
+    "aceptada",
+    "rechazada",
+    "observada",
+    "prueba tributaria"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La CDR informa el resultado de las comprobaciones informáticas del documento remitido. Deben distinguirse aceptación, aceptación con observaciones y rechazo conforme al sistema y catálogo. La aceptación no acredita por sí misma que la operación ocurrió, que el gasto sea causal o que se cumplan todos los requisitos del crédito fiscal. El PDF es una representación del comprobante, cuyo respaldo depende del SEE. No se afirma que un XML y CDR conservados por el usuario sean la única prueba admisible para todos los sistemas, incluido SOL. Los códigos y causales concretos deben contrastarse con el catálogo vigente."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Retiradas garantía de deducibilidad y CDR como prueba única universal."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://cpe.sunat.gob.pe/sistema_emision/see_contribuyente",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Catálogo de respuestas vigente y reglas de conservación y consulta según cada SEE."
+    ]
+  }
+}

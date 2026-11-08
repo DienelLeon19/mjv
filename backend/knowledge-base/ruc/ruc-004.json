@@ -1,0 +1,54 @@
+{
+  "id": "ruc-004",
+  "categoria": "ruc",
+  "titulo": "Estados del RUC: Activo, Suspensión Temporal y Baja de Oficio o Definitiva",
+  "contenido": "El padrón distingue activo, suspensión temporal, baja provisional, baja definitiva y bajas de oficio. La suspensión temporal admite hasta doce meses consecutivos. El contribuyente puede comunicar el reinicio o solicitar baja. Al vencer ese plazo sin comunicación, SUNAT puede dar de baja de oficio o considerar que se continúan las actividades, según corresponda. La baja definitiva no impide universalmente volver a utilizar el número: SUNAT contempla la reactivación de RUC dado de baja voluntariamente o de oficio. La emisión durante una suspensión debe evaluarse según las condiciones del sistema de emisión, sin afirmar automáticamente la sanción ni la pérdida del crédito del comprador.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Excepciones a declaraciones durante suspensión y consecuencias concretas de emitir en ese estado.",
+  "url_fuente": "https://orientacion.sunat.gob.pe/7144-10-estados-del-ruc",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 210-2004/SUNAT, Artículos 22 al 27",
+    "Texto Único Ordenado del Código Tributario, D.S. N° 133-2013-EF"
+  ],
+  "palabras_clave": [
+    "estados ruc",
+    "activo",
+    "suspension temporal",
+    "baja provisional",
+    "baja definitiva",
+    "reinicio actividades"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El padrón distingue activo, suspensión temporal, baja provisional, baja definitiva y bajas de oficio. La suspensión temporal admite hasta doce meses consecutivos. El contribuyente puede comunicar el reinicio o solicitar baja. Al vencer ese plazo sin comunicación, SUNAT puede dar de baja de oficio o considerar que se continúan las actividades, según corresponda. La baja definitiva no impide universalmente volver a utilizar el número: SUNAT contempla la reactivación de RUC dado de baja voluntariamente o de oficio. La emisión durante una suspensión debe evaluarse según las condiciones del sistema de emisión, sin afirmar automáticamente la sanción ni la pérdida del crédito del comprador."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregida irreversibilidad de baja definitiva."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://orientacion.sunat.gob.pe/7144-10-estados-del-ruc",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://orientacion.sunat.gob.pe/reactivacion-del-numero-de-ruc",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://centrovirtual.sunat.gob.pe/tramites/actualizar-datos-ruc",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Excepciones a declaraciones durante suspensión y consecuencias concretas de emitir en ese estado."
+    ]
+  }
+}

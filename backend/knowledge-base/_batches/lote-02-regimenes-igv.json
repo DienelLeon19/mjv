@@ -1,0 +1,548 @@
+{
+  "lote": "lote-02-regimenes-igv",
+  "fecha_consulta": "2026-11-03",
+  "cobertura": "Regímenes tributarios de tercera categoría en el Perú (Nuevo RUS, RER, RMT, Régimen General), límites de ingresos, compras y activos, tasas del Impuesto a la Renta, libros y registros contables obligatorios, reglas de cambio de régimen; estructura y tasa del IGV (18%), operaciones gravadas, inafectaciones, exoneraciones (Apéndices I y II), crédito fiscal del IGV (requisitos sustanciales y formales) y beneficio del IGV Justo (Ley 30524).",
+  "urls_procesadas": [
+    "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+    "https://orientacion.sunat.gob.pe/3100-04-determinacion-y-pago-categorias-del-nrus",
+    "https://www.sunat.gob.pe/legislacion/rus/rus.pdf",
+    "https://www.sunat.gob.pe/legislacion/renta/ley/capxv.pdf",
+    "https://www.gob.pe/institucion/sunat/pages/280-regimenes-tributarios",
+    "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+    "https://orientacion.sunat.gob.pe/sites/default/files/inline-files/REMYPe.pdf",
+    "https://orientacion.sunat.gob.pe/03-tasa-del-impuesto",
+    "https://orientacion.sunat.gob.pe/01-determinacion-de-pagos-cuenta",
+    "https://renta.sunat.gob.pe/normas",
+    "https://www.gob.pe/1201-regimen-especial-de-renta-rer-cambiar-al-rer",
+    "https://www.gob.pe/7910-impuesto-general-a-las-ventas-igv",
+    "https://orientacion.sunat.gob.pe/3109-05-calculo-del-impuesto",
+    "https://www.sunat.gob.pe/legislacion/igv/ley/capitul5.pdf",
+    "https://emprender.sunat.gob.pe/comprobantes-libros/comprobantes-pago/bancarizacion",
+    "https://leyes.congreso.gob.pe/Documentos/2021_2026/Decretos/Legislativos/2024/DL-1669.pdf",
+    "https://www.sunat.gob.pe/legislacion/igv/ley/capitul2.pdf",
+    "https://orientacion.sunat.gob.pe/3054-02-operaciones-exoneradas-o-inafectas-y-renuncia-a-la-exoneracion",
+    "https://www.gob.pe/23606-IGV-justo",
+    "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/08/archivos/cigv03.pdf"
+  ],
+  "pendientes": [
+    "Detalle de exoneraciones específicas de la Ley de la Amazonía (Ley 27037)",
+    "Normativa de servicios digitales prestados por no domiciliados gravados con IGV (D.L. 1623)"
+  ],
+  "documentos": [
+    {
+      "id": "reg-001",
+      "categoria": "regimenes",
+      "titulo": "Nuevo Régimen Único Simplificado (Nuevo RUS / NRUS)",
+      "contenido": "El Nuevo RUS comprende personas naturales y sucesiones indivisas elegibles. Sus límites generales son S/ 8,000 mensuales y S/ 96,000 anuales, tanto para ingresos como adquisiciones. Los activos afectados no deben superar S/ 70,000, excluyendo predios y vehículos. La categoría 1 corresponde hasta S/ 5,000 de ingresos y compras, con cuota S/ 20; la categoría 2, hasta S/ 8,000, con cuota S/ 50. La categoría especial exige que ingresos y compras anuales, cada uno, no superen S/ 60,000, actividad exclusiva autorizada y Formulario 2010. Comprende venta de determinados productos en mercados de abastos o cultivo con venta en estado natural. No habilita facturas. Existen exclusiones y excepciones sectoriales.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Aplicación individual de exclusiones y excepciones a unidad de explotación y activos.",
+      "url_fuente": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Decreto Legislativo N° 937 (Texto del Nuevo Régimen Único Simplificado) y modificatorias (D.L. 1270)"
+      ],
+      "palabras_clave": [
+        "nrus",
+        "nuevo rus",
+        "cuota fija",
+        "limite 8000",
+        "categoria 1",
+        "categoria 2",
+        "boletas"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El Nuevo RUS comprende personas naturales y sucesiones indivisas elegibles. Sus límites generales son S/ 8,000 mensuales y S/ 96,000 anuales, tanto para ingresos como adquisiciones. Los activos afectados no deben superar S/ 70,000, excluyendo predios y vehículos. La categoría 1 corresponde hasta S/ 5,000 de ingresos y compras, con cuota S/ 20; la categoría 2, hasta S/ 8,000, con cuota S/ 50. La categoría especial exige que ingresos y compras anuales, cada uno, no superen S/ 60,000, actividad exclusiva autorizada y Formulario 2010. Comprende venta de determinados productos en mercados de abastos o cultivo con venta en estado natural. No habilita facturas. Existen exclusiones y excepciones sectoriales."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Precisados categoría especial, compras y formulario; evitada elegibilidad universal."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/3100-04-determinacion-y-pago-categorias-del-nrus",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/rus/rus.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Aplicación individual de exclusiones y excepciones a unidad de explotación y activos."
+        ]
+      }
+    },
+    {
+      "id": "reg-002",
+      "categoria": "regimenes",
+      "titulo": "Régimen Especial de Renta (RER)",
+      "contenido": "El RER admite sujetos domiciliados elegibles con rentas empresariales. Los topes son S/ 525,000 anuales de ingresos netos y adquisiciones, excluidas las compras de activos fijos para este último límite. El valor de activos afectados no puede superar S/ 126,000, sin predios ni vehículos. El personal afectado no debe superar diez personas por turno. La cuota de Renta es 1.5% de los ingresos netos mensuales. Se llevan registros de compras y ventas y no se presenta regularización anual de Renta del RER. Las actividades excluidas del artículo 118 no se limitan a personas jurídicas. La obligación electrónica de registros debe comprobarse según designación y período.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Calendario SIRE aplicable y relación exhaustiva de actividades excluidas para cada caso.",
+      "url_fuente": "https://www.sunat.gob.pe/legislacion/renta/ley/capxv.pdf",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Artículos 117 al 124",
+        "Reglamento de la Ley del Impuesto a la Renta, D.S. N° 122-94-EF"
+      ],
+      "palabras_clave": [
+        "rer",
+        "regimen especial",
+        "tasa 1.5%",
+        "limite 525000",
+        "cuota cancelatoria",
+        "registro compras y ventas"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El RER admite sujetos domiciliados elegibles con rentas empresariales. Los topes son S/ 525,000 anuales de ingresos netos y adquisiciones, excluidas las compras de activos fijos para este último límite. El valor de activos afectados no puede superar S/ 126,000, sin predios ni vehículos. El personal afectado no debe superar diez personas por turno. La cuota de Renta es 1.5% de los ingresos netos mensuales. Se llevan registros de compras y ventas y no se presenta regularización anual de Renta del RER. Las actividades excluidas del artículo 118 no se limitan a personas jurídicas. La obligación electrónica de registros debe comprobarse según designación y período."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregida limitación de exclusiones profesionales a personas jurídicas."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/renta/ley/capxv.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.gob.pe/institucion/sunat/pages/280-regimenes-tributarios",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Calendario SIRE aplicable y relación exhaustiva de actividades excluidas para cada caso."
+        ]
+      }
+    },
+    {
+      "id": "reg-003",
+      "categoria": "regimenes",
+      "titulo": "Régimen MYPE Tributario (RMT)",
+      "contenido": "El RMT se rige por el Decreto Legislativo 1269 y admite sujetos domiciliados con ingresos netos anuales de hasta 1,700 UIT, cumpliendo las demás condiciones. Hasta 300 UIT de ingresos netos anuales, el pago a cuenta ordinario es 1% del ingreso neto mensual. Superado ese umbral se aplica el artículo 85 de la Ley del Impuesto a la Renta. La renta neta anual tributa progresivamente: 10% hasta quince UIT y 29.5% sobre el exceso. Deben evaluarse exclusiones por vinculación y por establecimientos de empresas extranjeras. No basta cumplir el límite de ventas para quedar admitido.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Detalle actualizado de libros por tramo, exclusiones sectoriales y reglas especiales de suspensión de pagos.",
+      "url_fuente": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Decreto Legislativo N° 1269 (Crea el Régimen MYPE Tributario del Impuesto a la Renta)",
+        "Decreto Supremo N° 403-2016-EF (Reglamento del Decreto Legislativo N° 1269)"
+      ],
+      "palabras_clave": [
+        "rmt",
+        "mype tributario",
+        "1700 uit",
+        "pago a cuenta 1%",
+        "tasa 10%",
+        "tasa 29.5%",
+        "dl 1269"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El RMT se rige por el Decreto Legislativo 1269 y admite sujetos domiciliados con ingresos netos anuales de hasta 1,700 UIT, cumpliendo las demás condiciones. Hasta 300 UIT de ingresos netos anuales, el pago a cuenta ordinario es 1% del ingreso neto mensual. Superado ese umbral se aplica el artículo 85 de la Ley del Impuesto a la Renta. La renta neta anual tributa progresivamente: 10% hasta quince UIT y 29.5% sobre el exceso. Deben evaluarse exclusiones por vinculación y por establecimientos de empresas extranjeras. No basta cumplir el límite de ventas para quedar admitido."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Retirada exclusión financiera genérica no acreditada y precisada base del pago mensual."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/sites/default/files/inline-files/REMYPe.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Detalle actualizado de libros por tramo, exclusiones sectoriales y reglas especiales de suspensión de pagos."
+        ]
+      }
+    },
+    {
+      "id": "reg-004",
+      "categoria": "regimenes",
+      "titulo": "Régimen General del Impuesto a la Renta (RG)",
+      "contenido": "El Régimen General no establece un tope de ingresos para permanecer en él. La tasa ordinaria de Renta empresarial es 29.5% de la renta neta anual. Los pagos a cuenta se calculan conforme al artículo 85, comparando coeficiente y 1.5% de ingresos netos, sin perjuicio de modificación o suspensión legal. En enero y febrero el coeficiente toma el ejercicio precedente al anterior, mientras desde marzo corresponde el anterior. La fecha de declaración anual depende del ejercicio, del contribuyente y del cronograma aplicable, incluidas reglas especiales para personas naturales y MYPE. No debe afirmarse que todos declaran necesariamente en marzo o abril.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Cronograma para el ejercicio 2026, libros auxiliares según actividad y regímenes sectoriales.",
+      "url_fuente": "https://orientacion.sunat.gob.pe/03-tasa-del-impuesto",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Artículos 28, 55 y 85",
+        "Reglamento de la Ley del Impuesto a la Renta, D.S. N° 122-94-EF"
+      ],
+      "palabras_clave": [
+        "regimen general",
+        "tasa 29.5%",
+        "coeficiente renta",
+        "contabilidad completa",
+        "art 85 lir"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El Régimen General no establece un tope de ingresos para permanecer en él. La tasa ordinaria de Renta empresarial es 29.5% de la renta neta anual. Los pagos a cuenta se calculan conforme al artículo 85, comparando coeficiente y 1.5% de ingresos netos, sin perjuicio de modificación o suspensión legal. En enero y febrero el coeficiente toma el ejercicio precedente al anterior, mientras desde marzo corresponde el anterior. La fecha de declaración anual depende del ejercicio, del contribuyente y del cronograma aplicable, incluidas reglas especiales para personas naturales y MYPE. No debe afirmarse que todos declaran necesariamente en marzo o abril."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregidos coeficiente enero/febrero y plazo anual universal."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://orientacion.sunat.gob.pe/03-tasa-del-impuesto",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/01-determinacion-de-pagos-cuenta",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://renta.sunat.gob.pe/normas",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Cronograma para el ejercicio 2026, libros auxiliares según actividad y regímenes sectoriales."
+        ]
+      }
+    },
+    {
+      "id": "reg-005",
+      "categoria": "regimenes",
+      "titulo": "Reglas, Oportunidad y Procedimiento para el Cambio de Régimen Tributario",
+      "contenido": "Los cambios deben evaluarse por régimen de origen y destino. Para pasar del Régimen General o RMT al RER, SUNAT exige declaración y pago de enero dentro del vencimiento. Desde el NRUS al RER puede hacerse en cualquier mes, cumpliendo requisitos. El retorno al NRUS desde otro régimen se realiza en enero e incluye condiciones sobre declaración, pago, baja de comprobantes y establecimientos. El ingreso del Régimen General al RMT se rige por el artículo 8 del Decreto Legislativo 1269. No debe trasladarse automáticamente la exigencia de pago del RER a cualquier cambio al RMT. La expresión 'de menor a mayor' es insuficiente como regla jurídica.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Matriz completa de cambios y efectos del exceso de umbrales con revisión literal de artículos 8 y 9 del DL 1269.",
+      "url_fuente": "https://www.gob.pe/1201-regimen-especial-de-renta-rer-cambiar-al-rer",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Art. 121",
+        "D.L. N° 1269 (RMT), Artículo 8"
+      ],
+      "palabras_clave": [
+        "cambio de regimen",
+        "periodo enero",
+        "de menor a mayor",
+        "de mayor a menor",
+        "cambio de oficio"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Los cambios deben evaluarse por régimen de origen y destino. Para pasar del Régimen General o RMT al RER, SUNAT exige declaración y pago de enero dentro del vencimiento. Desde el NRUS al RER puede hacerse en cualquier mes, cumpliendo requisitos. El retorno al NRUS desde otro régimen se realiza en enero e incluye condiciones sobre declaración, pago, baja de comprobantes y establecimientos. El ingreso del Régimen General al RMT se rige por el artículo 8 del Decreto Legislativo 1269. No debe trasladarse automáticamente la exigencia de pago del RER a cualquier cambio al RMT. La expresión 'de menor a mayor' es insuficiente como regla jurídica."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Sustituida regla jerárquica general por rutas verificadas."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.gob.pe/1201-regimen-especial-de-renta-rer-cambiar-al-rer",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/nuevo-regimen-unico-simplificado-nuevo-rus",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://emprender.sunat.gob.pe/ruc/regimenes-tributarios-mype/regimen-mype-tributario",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Matriz completa de cambios y efectos del exceso de umbrales con revisión literal de artículos 8 y 9 del DL 1269."
+        ]
+      }
+    },
+    {
+      "id": "igv-001",
+      "categoria": "igv",
+      "titulo": "Impuesto General a las Ventas (IGV): Concepto, tasa del 18% y operaciones gravadas",
+      "contenido": "En 2026 la tasa general conjunta sobre la base imponible es 18%, compuesta por IGV de 15.5% e Impuesto de Promoción Municipal de 2.5%. La Ley 32387 modificó la distribución de ambos componentes y prevé cambios graduales posteriores, por lo que esta composición debe identificarse con el ejercicio 2026. El artículo 1 del TUO del IGV comprende venta de bienes muebles en el país, prestación o utilización de servicios, construcción, primera venta de inmuebles por constructores e importación de bienes. El impuesto mensual se determina descontando del impuesto bruto el crédito fiscal admisible. Para importación y utilización de servicios de no domiciliados existen reglas de determinación distintas del débito mensual ordinario. Los tratamientos especiales deben revisarse separadamente.",
+      "url_fuente": "https://www.gob.pe/7910-impuesto-general-a-las-ventas-igv",
+      "vigencia": "vigente",
+      "referencias_normativas": [
+        "TUO de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo, Decreto Supremo N° 055-99-EF y modificatorias, Artículos 1 al 17",
+        "D.S. N° 029-94-EF (Reglamento de la Ley del IGV)",
+        "Ley 32387, tercera disposición complementaria modificatoria; composición aplicable en 2026"
+      ],
+      "palabras_clave": [
+        "igv",
+        "tasa 18%",
+        "operaciones gravadas",
+        "debito fiscal",
+        "saldo a favor",
+        "igv 15.5%",
+        "ipm 2.5%",
+        "ley 32387",
+        "2026"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "En 2026 la tasa general conjunta sobre la base imponible es 18%, compuesta por IGV de 15.5% e Impuesto de Promoción Municipal de 2.5%. La Ley 32387 modificó la distribución de ambos componentes y prevé cambios graduales posteriores, por lo que esta composición debe identificarse con el ejercicio 2026. El artículo 1 del TUO del IGV comprende venta de bienes muebles en el país, prestación o utilización de servicios, construcción, primera venta de inmuebles por constructores e importación de bienes. El impuesto mensual se determina descontando del impuesto bruto el crédito fiscal admisible. Para importación y utilización de servicios de no domiciliados existen reglas de determinación distintas del débito mensual ordinario. Los tratamientos especiales deben revisarse separadamente."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "verificado_en_alcance",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Corregida composición 16% + 2% a 15.5% + 2.5% para 2026."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.gob.pe/7910-impuesto-general-a-las-ventas-igv",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/3109-05-calculo-del-impuesto",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/igv/ley/capitul5.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "Ley 32387, tercera disposición complementaria modificatoria; composición aplicable en 2026"
+        ],
+        "pendientes": []
+      }
+    },
+    {
+      "id": "igv-002",
+      "categoria": "igv",
+      "titulo": "Crédito Fiscal del IGV: Requisitos Sustanciales, Formales y Bancarización",
+      "contenido": "El crédito fiscal exige verificar los requisitos sustanciales y formales de los artículos 18 y 19 del TUO del IGV, además de la Ley 29215 y reglas aplicables. No basta con poseer una factura o una CDR aceptada. La bancarización es obligatoria desde S/ 2,000 o US$ 500 para obligaciones comprendidas en la Ley 28194, modificada por el DL 1529. El pago debe efectuarse al acreedor o al tercero designado con la comunicación exigida. Se retira la afirmación de que todo registro debe efectuarse necesariamente mediante SIRE. El DL 1669 modifica la anotación y el crédito fiscal con vigencia condicionada a una resolución de SUNAT; no se ha confirmado aquí el cumplimiento de esa condición al corte.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Verificar resolución que activa DL 1669, plazos de anotación por fecha de emisión, calendario SIRE y excepciones de bancarización.",
+      "url_fuente": "https://emprender.sunat.gob.pe/comprobantes-libros/comprobantes-pago/bancarizacion",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "TUO de la Ley del IGV, D.S. N° 055-99-EF, Artículos 18, 19 y 20",
+        "Ley N° 28194 (Ley para la Lucha contra la Evasión y para la Formalización de la Economía) y modificatorias (D.L. 1529)",
+        "DL 1669, vigencia condicionada pendiente de confirmar",
+        "DL 1529, bancarización"
+      ],
+      "palabras_clave": [
+        "credito fiscal",
+        "requisitos sustanciales",
+        "requisitos formales",
+        "bancarizacion",
+        "2000 soles",
+        "sire"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El crédito fiscal exige verificar los requisitos sustanciales y formales de los artículos 18 y 19 del TUO del IGV, además de la Ley 29215 y reglas aplicables. No basta con poseer una factura o una CDR aceptada. La bancarización es obligatoria desde S/ 2,000 o US$ 500 para obligaciones comprendidas en la Ley 28194, modificada por el DL 1529. El pago debe efectuarse al acreedor o al tercero designado con la comunicación exigida. Se retira la afirmación de que todo registro debe efectuarse necesariamente mediante SIRE. El DL 1669 modifica la anotación y el crédito fiscal con vigencia condicionada a una resolución de SUNAT; no se ha confirmado aquí el cumplimiento de esa condición al corte."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Identificada vigencia condicionada del DL 1669; retirado SIRE universal."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://emprender.sunat.gob.pe/comprobantes-libros/comprobantes-pago/bancarizacion",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://leyes.congreso.gob.pe/Documentos/2021_2026/Decretos/Legislativos/2024/DL-1669.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "DL 1669, vigencia condicionada pendiente de confirmar",
+          "DL 1529, bancarización"
+        ],
+        "pendientes": [
+          "Verificar resolución que activa DL 1669, plazos de anotación por fecha de emisión, calendario SIRE y excepciones de bancarización."
+        ]
+      }
+    },
+    {
+      "id": "igv-003",
+      "categoria": "igv",
+      "titulo": "Operaciones Exoneradas e Inafectas del IGV: Apéndices I y II",
+      "contenido": "Los artículos 5 a 7 del TUO del IGV regulan las exoneraciones de los Apéndices I y II. La Ley 32542, publicada el 31 de diciembre de 2025 y vigente desde el 1 de enero de 2026, prorrogó su vigencia hasta el 31 de diciembre de 2028. La exoneración requiere comprobar que el bien, su clasificación y la operación coincidan con el apéndice. La inafectación responde a los supuestos del artículo 2 u otra norma específica. Se retira el listado anterior que atribuía automáticamente exoneración a servicios postales y espectáculos, e inafectación a pasajes de entidades religiosas o diplomáticas. Cada supuesto exige su propia base normativa. La prórroga general no valida esos ejemplos.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Verificación individual de bienes, subpartidas, servicios, inafectaciones y tratamiento del crédito de adquisiciones mixtas.",
+      "url_fuente": "https://www.sunat.gob.pe/legislacion/igv/ley/capitul2.pdf",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "TUO de la Ley del IGV, D.S. N° 055-99-EF, Artículos 2, 5 y Apéndices I y II",
+        "Ley 32542, artículo único y primera disposición complementaria final, vigente desde 2026-01-01"
+      ],
+      "palabras_clave": [
+        "inafectaciones",
+        "exoneraciones",
+        "apendice I",
+        "apendice II",
+        "transporte urbano",
+        "productos primarios"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "Los artículos 5 a 7 del TUO del IGV regulan las exoneraciones de los Apéndices I y II. La Ley 32542, publicada el 31 de diciembre de 2025 y vigente desde el 1 de enero de 2026, prorrogó su vigencia hasta el 31 de diciembre de 2028. La exoneración requiere comprobar que el bien, su clasificación y la operación coincidan con el apéndice. La inafectación responde a los supuestos del artículo 2 u otra norma específica. Se retira el listado anterior que atribuía automáticamente exoneración a servicios postales y espectáculos, e inafectación a pasajes de entidades religiosas o diplomáticas. Cada supuesto exige su propia base normativa. La prórroga general no valida esos ejemplos."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Incorporada Ley 32542 y retirados ejemplos sin sustento suficiente."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.sunat.gob.pe/legislacion/igv/ley/capitul2.pdf",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://orientacion.sunat.gob.pe/3054-02-operaciones-exoneradas-o-inafectas-y-renuncia-a-la-exoneracion",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [
+          "Ley 32542, artículo único y primera disposición complementaria final, vigente desde 2026-01-01"
+        ],
+        "pendientes": [
+          "Verificación individual de bienes, subpartidas, servicios, inafectaciones y tratamiento del crédito de adquisiciones mixtas."
+        ]
+      }
+    },
+    {
+      "id": "igv-004",
+      "categoria": "igv",
+      "titulo": "Beneficio del IGV Justo (Ley N° 30524): Prórroga del pago a 3 meses para MYPE",
+      "contenido": "El IGV Justo permite a MYPE elegibles prorrogar el pago del IGV por tres meses, sin trasladar el vencimiento de la declaración. El límite de ventas es 1,700 UIT, determinado conforme a las reglas del beneficio. No procede para deudas coactivas mayores a una UIT, condenas tributarias de titulares o socios y procesos concursales. El incumplimiento de declaraciones o pagos de los doce períodos evaluados admite regularización conforme a la Ley 30524 y su reglamento. Por tanto, no es una exclusión irreparable. SUNAT menciona regularizar mediante declaración, pago o fraccionamiento dentro del marco de noventa días previo al acogimiento. El cómputo exacto requiere contrastar el reglamento para el período solicitado.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Cómputo reglamentario de fecha límite de regularización, períodos evaluados y UIT usada para ventas del año anterior.",
+      "url_fuente": "https://www.gob.pe/23606-IGV-justo",
+      "vigencia": "pendiente_verificacion",
+      "referencias_normativas": [
+        "Ley N° 30524 - Ley de prórroga del pago del Impuesto General a las Ventas (IGV Justo)",
+        "Decreto Supremo N° 026-2017-EF (Reglamento de la Ley N° 30524)"
+      ],
+      "palabras_clave": [
+        "igv justo",
+        "ley 30524",
+        "prorroga 3 meses",
+        "mype 1700 uit",
+        "sin intereses moratorios"
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+          "respuesta": "El IGV Justo permite a MYPE elegibles prorrogar el pago del IGV por tres meses, sin trasladar el vencimiento de la declaración. El límite de ventas es 1,700 UIT, determinado conforme a las reglas del beneficio. No procede para deudas coactivas mayores a una UIT, condenas tributarias de titulares o socios y procesos concursales. El incumplimiento de declaraciones o pagos de los doce períodos evaluados admite regularización conforme a la Ley 30524 y su reglamento. Por tanto, no es una exclusión irreparable. SUNAT menciona regularizar mediante declaración, pago o fraccionamiento dentro del marco de noventa días previo al acogimiento. El cómputo exacto requiere contrastar el reglamento para el período solicitado."
+        }
+      ],
+      "fecha_consulta": "2026-11-03",
+      "auditoria": {
+        "fecha_verificacion": "2026-11-03",
+        "corte_normativo": "2026-11-03",
+        "estado": "corregido_con_pendientes",
+        "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+        "cambios": [
+          "Añadida regularización y retirado ejemplo de calendario sin contraste reglamentario."
+        ],
+        "fuentes_verificadas": [
+          {
+            "url": "https://www.gob.pe/23606-IGV-justo",
+            "fecha_verificacion": "2026-11-03"
+          },
+          {
+            "url": "https://iat.sunat.gob.pe/sites/default/files/documentos/2023/08/archivos/cigv03.pdf",
+            "fecha_verificacion": "2026-11-03"
+          }
+        ],
+        "normas_modificatorias_identificadas": [],
+        "pendientes": [
+          "Cómputo reglamentario de fecha límite de regularización, períodos evaluados y UIT usada para ventas del año anterior."
+        ]
+      }
+    }
+  ],
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "revisado_con_pendientes",
+    "documentos_revisados": 9
+  },
+  "pendientes_auditoria": [
+    {
+      "id": "reg-001",
+      "detalle": "Aplicación individual de exclusiones y excepciones a unidad de explotación y activos."
+    },
+    {
+      "id": "reg-002",
+      "detalle": "Calendario SIRE aplicable y relación exhaustiva de actividades excluidas para cada caso."
+    },
+    {
+      "id": "reg-003",
+      "detalle": "Detalle actualizado de libros por tramo, exclusiones sectoriales y reglas especiales de suspensión de pagos."
+    },
+    {
+      "id": "reg-004",
+      "detalle": "Cronograma para el ejercicio 2026, libros auxiliares según actividad y regímenes sectoriales."
+    },
+    {
+      "id": "reg-005",
+      "detalle": "Matriz completa de cambios y efectos del exceso de umbrales con revisión literal de artículos 8 y 9 del DL 1269."
+    },
+    {
+      "id": "igv-002",
+      "detalle": "Verificar resolución que activa DL 1669, plazos de anotación por fecha de emisión, calendario SIRE y excepciones de bancarización."
+    },
+    {
+      "id": "igv-003",
+      "detalle": "Verificación individual de bienes, subpartidas, servicios, inafectaciones y tratamiento del crédito de adquisiciones mixtas."
+    },
+    {
+      "id": "igv-004",
+      "detalle": "Cómputo reglamentario de fecha límite de regularización, períodos evaluados y UIT usada para ventas del año anterior."
+    }
+  ]
+}

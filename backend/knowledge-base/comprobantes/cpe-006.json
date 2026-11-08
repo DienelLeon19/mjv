@@ -1,0 +1,56 @@
+{
+  "id": "cpe-006",
+  "categoria": "comprobantes",
+  "titulo": "Plazo de Envío de Facturas Electrónicas (3 días calendario) y Validez Legal",
+  "contenido": "En los SEE del contribuyente, SFS y OSE, la factura y las notas vinculadas deben enviarse en la fecha de emisión o dentro de los tres días calendario siguientes, según la norma del sistema. La RS 000003-2023/SUNAT y la RS 000302-2024/SUNAT respaldan el plazo. Una emisión del 10 de noviembre tendría como tercer día el 13 de noviembre, sin atribuir un día de semana incompatible con el año. Lo no remitido en plazo no adquiere la calidad electrónica indicada por la norma. La solución de una omisión debe respetar la oportunidad original de emisión y las obligaciones tributarias; no se recomienda simplemente cambiar la fecha de una operación.",
+  "url_fuente": "https://www.sunat.gob.pe/legislacion/superin/2023/000003-2023.pdf",
+  "vigencia": "vigente",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 000150-2021/SUNAT",
+    "Resolución de Superintendencia N° 000003-2023/SUNAT (Plazo de 3 días calendario para envío de comprobantes)",
+    "RS 000003-2023/SUNAT",
+    "RS 000302-2024/SUNAT"
+  ],
+  "palabras_clave": [
+    "plazo de envio",
+    "3 dias calendario",
+    "rechazo sunat",
+    "perdida de credito fiscal",
+    "validez tributaria"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "En los SEE del contribuyente, SFS y OSE, la factura y las notas vinculadas deben enviarse en la fecha de emisión o dentro de los tres días calendario siguientes, según la norma del sistema. La RS 000003-2023/SUNAT y la RS 000302-2024/SUNAT respaldan el plazo. Una emisión del 10 de noviembre tendría como tercer día el 13 de noviembre, sin atribuir un día de semana incompatible con el año. Lo no remitido en plazo no adquiere la calidad electrónica indicada por la norma. La solución de una omisión debe respetar la oportunidad original de emisión y las obligaciones tributarias; no se recomienda simplemente cambiar la fecha de una operación."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "verificado_en_alcance",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Confirmados tres días frente a página antigua de siete; retirada recomendación de redatar."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/superin/2023/000003-2023.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/superin/2024/000302-2024.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cpe.sunat.gob.pe/informacion_general/preguntas_frecuentes",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "RS 000003-2023/SUNAT",
+      "RS 000302-2024/SUNAT"
+    ],
+    "pendientes": []
+  }
+}

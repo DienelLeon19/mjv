@@ -1,0 +1,59 @@
+{
+  "id": "cpe-008",
+  "categoria": "comprobantes",
+  "titulo": "Guía de Remisión Electrónica (GRE): Remitente y Transportista",
+  "contenido": "La GRE sustenta traslados terrestres conforme a las reglas de remitente, transportista y eventos. Se emite mediante SOL, App Emprender o sistemas propios. Debe verificarse si corresponden una o ambas guías y si existe excepción. El QR es una forma de sustento, no una obligación universal de exhibir solo ese código. SUNAT informa que la RSNATI 000031-2026-SUNAT/700000 extendió la discrecionalidad para determinados supuestos de GRE remitente hasta el 31 de agosto de 2026 y de transportista hasta el 28 de febrero de 2027. No equivale a una dispensa general de emitir guía. La sanción depende del sujeto, conducta, tabla y discrecionalidad aplicable.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Texto íntegro y condiciones de RSNATI 000031-2026, eventuales ampliaciones posteriores y modificaciones de sujetos obligados.",
+  "url_fuente": "https://cpe.sunat.gob.pe/node/122",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 000123-2022/SUNAT (Nuevo modelo de emisión de la GRE)",
+    "Texto Único Ordenado del Código Tributario, D.S. N° 133-2013-EF, Art. 174",
+    "RS 000123-2022/SUNAT",
+    "RSNATI 000031-2026-SUNAT/700000; resumen oficial consultado, texto íntegro pendiente"
+  ],
+  "palabras_clave": [
+    "guia de remision",
+    "gre remitente",
+    "gre transportista",
+    "traslado de bienes",
+    "codigo qr",
+    "comiso"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "La GRE sustenta traslados terrestres conforme a las reglas de remitente, transportista y eventos. Se emite mediante SOL, App Emprender o sistemas propios. Debe verificarse si corresponden una o ambas guías y si existe excepción. El QR es una forma de sustento, no una obligación universal de exhibir solo ese código. SUNAT informa que la RSNATI 000031-2026-SUNAT/700000 extendió la discrecionalidad para determinados supuestos de GRE remitente hasta el 31 de agosto de 2026 y de transportista hasta el 28 de febrero de 2027. No equivale a una dispensa general de emitir guía. La sanción depende del sujeto, conducta, tabla y discrecionalidad aplicable."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregidos ambas guías siempre y sanción automática; añadida actualización 2026."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://cpe.sunat.gob.pe/node/122",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cpe.sunat.gob.pe/node/114",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cpe.sunat.gob.pe/node/119",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "RS 000123-2022/SUNAT",
+      "RSNATI 000031-2026-SUNAT/700000; resumen oficial consultado, texto íntegro pendiente"
+    ],
+    "pendientes": [
+      "Texto íntegro y condiciones de RSNATI 000031-2026, eventuales ampliaciones posteriores y modificaciones de sujetos obligados."
+    ]
+  }
+}

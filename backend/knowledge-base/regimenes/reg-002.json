@@ -1,0 +1,50 @@
+{
+  "id": "reg-002",
+  "categoria": "regimenes",
+  "titulo": "Régimen Especial de Renta (RER)",
+  "contenido": "El RER admite sujetos domiciliados elegibles con rentas empresariales. Los topes son S/ 525,000 anuales de ingresos netos y adquisiciones, excluidas las compras de activos fijos para este último límite. El valor de activos afectados no puede superar S/ 126,000, sin predios ni vehículos. El personal afectado no debe superar diez personas por turno. La cuota de Renta es 1.5% de los ingresos netos mensuales. Se llevan registros de compras y ventas y no se presenta regularización anual de Renta del RER. Las actividades excluidas del artículo 118 no se limitan a personas jurídicas. La obligación electrónica de registros debe comprobarse según designación y período.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Calendario SIRE aplicable y relación exhaustiva de actividades excluidas para cada caso.",
+  "url_fuente": "https://www.sunat.gob.pe/legislacion/renta/ley/capxv.pdf",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "TUO de la Ley del Impuesto a la Renta, D.S. N° 179-2004-EF, Artículos 117 al 124",
+    "Reglamento de la Ley del Impuesto a la Renta, D.S. N° 122-94-EF"
+  ],
+  "palabras_clave": [
+    "rer",
+    "regimen especial",
+    "tasa 1.5%",
+    "limite 525000",
+    "cuota cancelatoria",
+    "registro compras y ventas"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "El RER admite sujetos domiciliados elegibles con rentas empresariales. Los topes son S/ 525,000 anuales de ingresos netos y adquisiciones, excluidas las compras de activos fijos para este último límite. El valor de activos afectados no puede superar S/ 126,000, sin predios ni vehículos. El personal afectado no debe superar diez personas por turno. La cuota de Renta es 1.5% de los ingresos netos mensuales. Se llevan registros de compras y ventas y no se presenta regularización anual de Renta del RER. Las actividades excluidas del artículo 118 no se limitan a personas jurídicas. La obligación electrónica de registros debe comprobarse según designación y período."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregida limitación de exclusiones profesionales a personas jurídicas."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/renta/ley/capxv.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://www.gob.pe/institucion/sunat/pages/280-regimenes-tributarios",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [],
+    "pendientes": [
+      "Calendario SIRE aplicable y relación exhaustiva de actividades excluidas para cada caso."
+    ]
+  }
+}

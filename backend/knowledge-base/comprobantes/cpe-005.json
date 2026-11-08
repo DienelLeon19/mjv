@@ -1,0 +1,55 @@
+{
+  "id": "cpe-005",
+  "categoria": "comprobantes",
+  "titulo": "Modalidades del Sistema de Emisión Electrónica: SEE-SOL, SEE-Contribuyente y SEE-OSE",
+  "contenido": "Los SEE incluyen SOL, sistemas del contribuyente, Facturador SUNAT y OSE, con características y obligaciones propias. El uso de OSE no deriva automáticamente de ser PRICO. La RS 239-2018/SUNAT y sus modificaciones contemplan sujetos y condiciones para utilizar SEE-OSE y/o SEE-SOL. La RS 105-2020/SUNAT describe, entre otros, el supuesto de principales contribuyentes con ingresos anuales anteriores de al menos 300 UIT. Existe un listado oficial de nuevos obligados desde el 1 de julio de 2026. Debe contrastarse el contribuyente, período y designación antes de afirmar que necesita contratar un operador.\n\nPENDIENTE DE VERIFICACIÓN AL CORTE\n- Listado concreto de obligados 2026 y cadena completa de modificaciones de RS 239-2018.",
+  "url_fuente": "https://www.sunat.gob.pe/legislacion/superin/2020/105-2020.pdf",
+  "vigencia": "pendiente_verificacion",
+  "referencias_normativas": [
+    "Resolución de Superintendencia N° 300-2014/SUNAT (Crea el marco general del SEE)",
+    "Decreto Legislativo N° 1314 (Faculta a la SUNAT a establecer el uso de Operadores de Servicios Electrónicos)",
+    "R.S. N° 117-2017/SUNAT (Reglamento del SEE-OSE)",
+    "RS 239-2018/SUNAT y RS 105-2020/SUNAT"
+  ],
+  "palabras_clave": [
+    "see sol",
+    "see contribuyente",
+    "see ose",
+    "facturador sunat",
+    "sfs",
+    "certificado digital",
+    "ubl 2.1"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué puntos se confirmaron en la auditoría de noviembre de 2026?",
+      "respuesta": "Los SEE incluyen SOL, sistemas del contribuyente, Facturador SUNAT y OSE, con características y obligaciones propias. El uso de OSE no deriva automáticamente de ser PRICO. La RS 239-2018/SUNAT y sus modificaciones contemplan sujetos y condiciones para utilizar SEE-OSE y/o SEE-SOL. La RS 105-2020/SUNAT describe, entre otros, el supuesto de principales contribuyentes con ingresos anuales anteriores de al menos 300 UIT. Existe un listado oficial de nuevos obligados desde el 1 de julio de 2026. Debe contrastarse el contribuyente, período y designación antes de afirmar que necesita contratar un operador."
+    }
+  ],
+  "fecha_consulta": "2026-11-03",
+  "auditoria": {
+    "fecha_verificacion": "2026-11-03",
+    "corte_normativo": "2026-11-03",
+    "estado": "corregido_con_pendientes",
+    "alcance": "Revisión de contenido y FAQ contra fuentes oficiales listadas. Vigente se limita a afirmaciones conservadas, no certifica exhaustividad normativa.",
+    "cambios": [
+      "Corregida obligación universal de contratar OSE para PRICO."
+    ],
+    "fuentes_verificadas": [
+      {
+        "url": "https://www.sunat.gob.pe/legislacion/superin/2020/105-2020.pdf",
+        "fecha_verificacion": "2026-11-03"
+      },
+      {
+        "url": "https://cpe.sunat.gob.pe/listado-de-contribuyentes",
+        "fecha_verificacion": "2026-11-03"
+      }
+    ],
+    "normas_modificatorias_identificadas": [
+      "RS 239-2018/SUNAT y RS 105-2020/SUNAT"
+    ],
+    "pendientes": [
+      "Listado concreto de obligados 2026 y cadena completa de modificaciones de RS 239-2018."
+    ]
+  }
+}
