@@ -1,0 +1,45 @@
+# Dependencias y resultados de compilación
+node_modules/
+dist/
+release/
+coverage/
+.pnpm-store/
+.vite/
+
+# Entornos locales: publicar únicamente plantillas sin secretos
+.env
+.env.*
+.envrc
+!.env.example
+
+# Claves privadas, certificados y credenciales locales
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+credentials.json
+*-credentials.json
+service-account*.json
+*-service-account.json
+.npmrc
+.ssh/
+.aws/
+.gcloud/
+
+# Cachés, logs y configuración personal
+*.tsbuildinfo
+*.log
+.cache/
+.codex/
+.agents/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
